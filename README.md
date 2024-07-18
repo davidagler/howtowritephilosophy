@@ -16,7 +16,7 @@ Here is the order in which the lessons are intended to be completed:
 
 ## Templates
 
-You can find template files in the [templates](templates) folder.
+You can find template files in the [templates](https://github.com/davidagler/howtowritephilosophy/tree/main/templates) folder.
 
 
 ## For Instructors
