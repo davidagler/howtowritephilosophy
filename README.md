@@ -8,11 +8,11 @@ Here is the order in which the lessons are intended to be completed:
 
 1. [How to Quote](lessons\quoting)
 1. [How to Cite](lessons\citing)
-1. [How to Argue](lessons\argue.md)
-1. [How to Use Metadiscourse](lessons\metadiscourse.md)
-1. [How to Clarify](lessons\clarify.md)
-1. [How to Write with Style](lessons\style.md)
-1. [Write an Essay with a Template](lessons\templates.md)
+1. [How to Argue](lessons\argue)
+1. [How to Use Metadiscourse](lessons\metadiscourse)
+1. [How to Clarify](lessons\clarify)
+1. [How to Write with Style](lessons\style)
+1. [Write an Essay with a Template](lessons\templates)
 
 ## Templates
 
