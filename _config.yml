@@ -1,8 +1,8 @@
 title: "How to Write Philosophy"
 description: "Basic writing-related instruction for philosophy courses."
 markdown: kramdown
-theme: jekyll-theme-minimal
-#url: "https://davidagler.github.io" #base url
+#theme: jekyll-theme-minimal
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 relative_url: true
 plugins:
   - jekyll-readme-index # Use README.md as index file
