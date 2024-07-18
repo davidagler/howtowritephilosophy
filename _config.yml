@@ -1,7 +1,7 @@
 title: "Philosophy Papers"
 description: "Basic writing-related instruction for philosophy courses."
 markdown: kramdown
-theme: minima
+theme: primer
 author: 
   name: "David W. Agler"
 plugins:
