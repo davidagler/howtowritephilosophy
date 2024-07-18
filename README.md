@@ -1,13 +1,3 @@
----
-title: "How to Write Philosophy Papers"
-created: 16 July 2024
-date: $\today$
-author: David W. Agler
-tags:
-    - Writing
-    - Philosophy
----
-
 # How to Write Philosophy Papers
 
 Some basic writing-related instruction for students who take my writing-intensive philosophy courses. It includes some instruction on basic [skills](#skills) (e.g., using metadisource, arguing, etc.) along with [templates](#templates) for writing certain kinds of philosophy essays.
