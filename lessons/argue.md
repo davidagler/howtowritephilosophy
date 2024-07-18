@@ -1,5 +1,6 @@
 ---
 title: "How to Present Your Argument"
+theme: jekyll-theme-minima
 ---
 
 # How to Present Your Argument
