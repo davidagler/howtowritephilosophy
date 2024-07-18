@@ -2,6 +2,7 @@ title: "How to Write Philosophy"
 description: "Basic writing-related instruction for philosophy courses."
 markdown: kramdown
 theme: jekyll-theme-minimal
+relative_permalinks: false
 plugins:
   - jekyll-readme-index # Use README.md as index file
 author: 
