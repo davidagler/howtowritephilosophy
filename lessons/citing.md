@@ -1,3 +1,9 @@
+---
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+---
+
 # How to Cite
 
 When you use a source, you should provide sufficient information about the source so other people can identify it. This is known as a "citation". Why cite the works you use from others? Three reasons:
