@@ -83,16 +83,62 @@ In response to this rule, I've been told that false generalizations encourages e
 
 Suppose you are debunking arguments put forward by people who believe that the earth is flat (flat-earthers). In debunking these arguments, you offer a few stories about flat-earthers you've encountered. These stories are anecdotes. An *anecdote* is a short story involving a real event, experience, or person. Why are you offering up an anecdote?
 
-First, you might offer an anecdote because it helps explain why you are interested in debunking the claims made by flat-earthers. If so, then, at least for one point in your writing, the debunking of the claims is not the subject matter. Rather, you are the subject matter. In some cases, your audience might not care about you or your motivation. They only want to know about the debunking. So, you are offering irrelevant information.
+First, you might offer an anecdote because it helps explain why you are interested in debunking the claims made by flat-earthers. If so, then, at least for one point in your writing, the debunking of the claims is not the subject matter. Rather, you are the subject matter. In some cases, your audience might not care about you or your motivation. They only want to know about the debunking. So, you are offering irrelevant information: [violation of rule 2](#rule-2-focus-on-your-topic).
 
-Second, you might offer an anecdote as evidence for a claim you are making. One way to do this is to tell a story about a person who you take to be representative of a position you plan to criticize. In this case, ask yourself whether anything about the person is relevant for criticizing the position itself. For example, suppose again you plan on debunking positions held by flat-earthers. To introduce the topic, you offer an anecdote of a flat-earther you met. You point out their straggly appearance, indicate the political party they support, and describe some of their mannerisms. None of this is relevant to the debunking of the position.
+Second, you might offer an anecdote as *evidence* for a claim you are making. One way to do this is to tell a story about a person who you take to be representative of a position you plan to criticize. In this case, ask yourself whether anything about the person is relevant for criticizing the position itself. For example, suppose again you plan on debunking positions held by flat-earthers. To introduce the topic, you offer an anecdote of a flat-earther you met. You point out their straggly appearance, indicate the political party they support, and describe some of their mannerisms. None of this is relevant to the debunking of the position.
 
 It is my contention that, except in rare cases involving people who live extraordinary lives, adding anecdotes into one's writing should be avoided. They tend to be irrelevant, prompt readers to engage in fallacious forms of reasoning, and a waste of your reader's time.
 
-- P1: One of the primary goals of writing is to communicate *relevant* information as precisely and as *quickly* as possible to your intended audience. 
+- P1: One of the primary goals of writing is to communicate information that is  relevant and rationally supported, and to do so as precisely and as quickly as possible to your intended audience. 
 - P2: Anecdotes tend to introduce irrelevant information.
 - C: Therefore, avoid anecdotes.
 
 In response to this rule, some people are highly impressed by personal anecdotes and so their use has persuasive value. If your concern is impressing your audience rather than rationally persuading them, then anecdotes can be a powerful tool.
 
-## Rule 5: 
+## Rule 5: Use Examples and Illustrations to Aid Understanding
+
+There is the famous saying (attributed to Confucius, Arthur Brisbane, and [Fred R. Barnard](https://en.wikipedia.org/wiki/Fred_Barnard), and others) that "a picture is worth a thousand words". 
+
+![Royal Baking Powder](imgs/thousand_words.png)
+
+It is hard to know what "worth" means here. It does seem that pictures and examples can be more "economical". For example, consider the following remark about etchings:
+
+> "A capable etcher holds within a few black lines the interpretation of a romance and feeling impossible to tell in a thousand words or a dozen colors." (From *Printers' Ink Monthly*, Vol. 1, No. 10, Sept. 1920)
+
+![Etching from *Printers' Ink Monthly*, Vol. 1, No. 10, Sept. 1920](imgs/thousand_words_etching.png)
+
+Whether pictures / examples are better or economical or not, they do tend to (1) aid in [understanding complex topics](https://nhmu.utah.edu/sites/default/files/trail-resource/b0973c177d7cac13ca0e80f2404999d56d3d.pdf) and (2) be memorable or attractive.
+
+Here is an argument in support of the use of examples:
+
+- P1: One of the primary goals of writing is to communicate information that is relevant and rationally supported, and to do so as precisely and as quickly as possible to your intended audience. 
+- P2: Pictures, diagrams, and examples aid in understanding of complex (abstract) topics.
+- C: Therefore, use plenty of pictures, diagrams, and examples.
+
+In response to this rule, there is the claim that pictures and examples can mislead readers since they often oversimplify and are not as informative as written text. For example, compare various attempts to reproduce the shield of Achilles and compare it against Homer's description of it in [The Illiad](https://classics.mit.edu/Homer/iliad.18.xviii.html):
+
+![By The Penny Magazine of the Society for the Diffusion of Useful Knowledge(Life time: 1845) - Original publication: The Penny Magazine of the Society for the Diffusion of Useful Knowledge, Published in London by Charles Knight (1845)](imgs/shield_of_achilles.jpg)
+
+> "First he shaped the shield so great and strong, adorning it all over and binding it round with a gleaming circuit in three layers; and the baldric was made of silver. He made the shield in five thicknesses, and with many a wonder did his cunning hand enrich it.  
+>
+> He wrought the earth, the heavens, and the sea; the moon also at her full and the untiring sun, with all the signs that glorify the face of heaven- the Pleiads, the Hyads, huge Orion, and the Bear, which men also call the Wain and which turns round ever in one place, facing. Orion, and alone never dips into the stream of Oceanus.
+> 
+> He wrought also two cities, fair to see and busy with the hum of men. In the one were weddings and wedding-feasts, and they were going about the city with brides whom they were escorting by torchlight from their chambers. Loud rose the cry of Hymen, and the youths danced to the music of flute and lyre, while the women stood each at her house door to see them.
+> 
+> Meanwhile the people were gathered in assembly, for there was a quarrel, and two men were wrangling about the blood-money for a man who had been killed, the one saying before the people that he had paid damages in full, and the other that he had not been paid. Each was trying to make his own case good, and the people took sides, each man backing the side that he had taken; but the heralds kept them back, and the elders sate on their seats of stone in a solemn circle, holding the staves which the heralds had put into their hands. Then they rose and each in his turn gave judgement, and there were two talents laid down, to be given to him whose judgement should be deemed the fairest.
+> 
+> About the other city there lay encamped two hosts in gleaming armour, and they were divided whether to sack it, or to spare it and accept the half of what it contained. But the men of the city would not yet consent, and armed themselves for a surprise; their wives and little children kept guard upon the walls, and with them were the men who were past fighting through age; but the others sallied forth with Mars and Pallas Minerva at their head- both of them wrought in gold and clad in golden raiment, great and fair with their armour as befitting gods, while they that followed were smaller. When they reached the place where they would lay their ambush, it was on a riverbed to which live stock of all kinds would come from far and near to water; here, then, they lay concealed, clad in full armour. Some way off them there were two scouts who were on the look-out for the coming of sheep or cattle, which presently came, followed by two shepherds who were playing on their pipes, and had not so much as a thought of danger. When those who were in ambush saw this, they cut off the flocks and herds and killed the shepherds. Meanwhile the besiegers, when they heard much noise among the cattle as they sat in council, sprang to their horses, and made with all speed towards them; when they reached them they set battle in array by the banks of the river, and the hosts aimed their bronze-shod spears at one another. With them were Strife and Riot, and fell Fate who was dragging three men after her, one with a fresh wound, and the other unwounded, while the third was dead, and she was dragging him along by his heel: and her robe was bedrabbled in men's blood. They went in and out with one another and fought as though they were living people haling away one another's dead.
+> 
+> He wrought also a fair fallow field, large and thrice ploughed already. Many men were working at the plough within it, turning their oxen to and fro, furrow after furrow. Each time that they turned on reaching the headland a man would come up to them and give them a cup of wine, and they would go back to their furrows looking forward to the time when they should again reach the headland. The part that they had ploughed was dark behind them, so that the field, though it was of gold, still looked as if it were being ploughed- very curious to behold.
+> 
+> He wrought also a field of harvest corn, and the reapers were reaping with sharp sickles in their hands. Swathe after swathe fell to the ground in a straight line behind them, and the binders bound them in bands of twisted straw. There were three binders, and behind them there were boys who gathered the cut corn in armfuls and kept on bringing them to be bound: among them all the owner of the land stood by in silence and was glad. The servants were getting a meal ready under an oak, for they had sacrificed a great ox, and were busy cutting him up, while the women were making a porridge of much white barley for the labourers' dinner.
+>   
+> He wrought also a vineyard, golden and fair to see, and the vines were loaded with grapes. The bunches overhead were black, but the vines were trained on poles of silver. He ran a ditch of dark metal all round it, and fenced it with a fence of tin; there was only one path to it, and by this the vintagers went when they would gather the vintage. Youths and maidens all blithe and full of glee, carried the luscious fruit in plaited baskets; and with them there went a boy who made sweet music with his lyre, and sang the Linus-song with his clear boyish voice.
+>
+> He wrought also a herd of homed cattle. He made the cows of gold and tin, and they lowed as they came full speed out of the yards to go and feed among the waving reeds that grow by the banks of the river. Along with the cattle there went four shepherds, all of them in gold, and their nine fleet dogs went with them. Two terrible lions had fastened on a bellowing bull that was with the foremost cows, and bellow as he might they haled him, while the dogs and men gave chase: the lions tore through the bull's thick hide and were gorging on his blood and bowels, but the herdsmen were afraid to do anything, and only hounded on their dogs; the dogs dared not fasten on the lions but stood by barking and keeping out of harm's way.
+
+The god wrought also a pasture in a fair mountain dell, and large flock of sheep, with a homestead and huts, and sheltered sheepfolds.
+
+Furthermore he wrought a green, like that which Daedalus once made in Cnossus for lovely Ariadne. Hereon there danced youths and maidens whom all would woo, with their hands on one another's wrists. The maidens wore robes of light linen, and the youths well woven shirts that were slightly oiled. The girls were crowned with garlands, while the young men had daggers of gold that hung by silver baldrics; sometimes they would dance deftly in a ring with merry twinkling feet, as it were a potter sitting at his work and making trial of his wheel to see whether it will run, and sometimes they would go all in line with one another, and much people was gathered joyously about the green. There was a bard also to sing to them and play his lyre, while two tumblers went about performing in the midst of them when the man struck up with his tune.
+
+All round the outermost rim of the shield he set the mighty stream of the river Oceanus.
