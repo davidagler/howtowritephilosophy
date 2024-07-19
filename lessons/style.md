@@ -119,9 +119,9 @@ In response to this rule, there is the claim that pictures and examples can misl
 
 ![By The Penny Magazine of the Society for the Diffusion of Useful Knowledge(Life time: 1845) - Original publication: The Penny Magazine of the Society for the Diffusion of Useful Knowledge, Published in London by Charles Knight (1845)](imgs/shield_of_achilles.jpg)
 
-> From [The Illiad](https://classics.mit.edu/Homer/iliad.18.xviii.html) (Bk XVIII): "First he shaped the shield so great and strong, adorning it all over and binding it round with a gleaming circuit in three layers; and the baldric was made of silver. He made the shield in five thicknesses, and with many a wonder did his cunning hand enrich it.<br>
->
-> He wrought the earth, the heavens, and the sea; the moon also at her full and the untiring sun, with all the signs that glorify the face of heaven- the Pleiads, the Hyads, huge Orion, and the Bear, which men also call the Wain and which turns round ever in one place, facing. Orion, and alone never dips into the stream of Oceanus.
+> From [The Illiad](https://classics.mit.edu/Homer/iliad.18.xviii.html) (Bk XVIII): "First he shaped the shield so great and strong, adorning it all over and binding it round with a gleaming circuit in three layers; and the baldric was made of silver. He made the shield in five thicknesses, and with many a wonder did his cunning hand enrich it.<br>  
+>  
+> He wrought the earth, the heavens, and the sea; the moon also at her full and the untiring sun, with all the signs that glorify the face of heaven- the Pleiads, the Hyads, huge Orion, and the Bear, which men also call the Wain and which turns round ever in one place, facing. Orion, and alone never dips into the stream of Oceanus.  
 > 
 > He wrought also two cities, fair to see and busy with the hum of men. In the one were weddings and wedding-feasts, and they were going about the city with brides whom they were escorting by torchlight from their chambers. Loud rose the cry of Hymen, and the youths danced to the music of flute and lyre, while the women stood each at her house door to see them.
 > 
