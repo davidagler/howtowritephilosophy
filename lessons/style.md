@@ -115,11 +115,11 @@ Here is an argument in support of the use of examples:
 - P2: Pictures, diagrams, and examples aid in understanding of complex (abstract) topics.
 - C: Therefore, use plenty of pictures, diagrams, and examples.
 
-In response to this rule, there is the claim that pictures and examples can mislead readers since they often oversimplify and are not as informative as written text. For example, compare various attempts to reproduce the shield of Achilles and compare it against Homer's description of it in [The Illiad](https://classics.mit.edu/Homer/iliad.18.xviii.html):
+In response to this rule, there is the claim that pictures and examples can mislead readers since they often oversimplify and are not as informative as written text. For example, compare various attempts to reproduce the shield of Achilles and compare it against Homer's description of it in *The Illiad*:
 
 ![By The Penny Magazine of the Society for the Diffusion of Useful Knowledge(Life time: 1845) - Original publication: The Penny Magazine of the Society for the Diffusion of Useful Knowledge, Published in London by Charles Knight (1845)](imgs/shield_of_achilles.jpg)
 
-> "First he shaped the shield so great and strong, adorning it all over and binding it round with a gleaming circuit in three layers; and the baldric was made of silver. He made the shield in five thicknesses, and with many a wonder did his cunning hand enrich it.  
+> From [The Illiad](https://classics.mit.edu/Homer/iliad.18.xviii.html) (Bk XVIII): "First he shaped the shield so great and strong, adorning it all over and binding it round with a gleaming circuit in three layers; and the baldric was made of silver. He made the shield in five thicknesses, and with many a wonder did his cunning hand enrich it.<br>
 >
 > He wrought the earth, the heavens, and the sea; the moon also at her full and the untiring sun, with all the signs that glorify the face of heaven- the Pleiads, the Hyads, huge Orion, and the Bear, which men also call the Wain and which turns round ever in one place, facing. Orion, and alone never dips into the stream of Oceanus.
 > 
