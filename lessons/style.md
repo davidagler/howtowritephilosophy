@@ -4,7 +4,7 @@ In what follows, I will present five rules concerning style. These rules are for
 
 ## Rule 1: Avoid jargon and five-dollar words
 
-Before we formulate this rule more precisely, let's provide some informal definitions. "Jargon" refers to the technical terminology of a field of research, a profession, or special activity. Jargon tends to be difficult to understand by those not working in that special activity. For example, the term "supervaluation" is a piece of jargon used by logicians. Or, the term "gank" is a piece of jargon used by those that play the online video game League of Legends.
+Before we formulate this rule more precisely, let's provide some informal definitions. "Jargon" refers to the technical terminology of a field of research, a profession, or special activity. Jargon tends to be difficult to understand by those not working in that special activity. For example, the term ["supervaluation"](https://doi.org/10.1111/j.1747-9991.2008.00124.x) is a piece of jargon used by logicians. Or, the term "gank" is a piece of jargon used by those that play the online video game [League of Legends](https://www.leagueoflegends.com/en-us/).
 
 Consider the following quote attributed to Mark Twain:
 
@@ -12,8 +12,8 @@ Consider the following quote attributed to Mark Twain:
 
 To understand this quote, let's define the meaning of a "fifty-cent word" and a "five-dollar word":
 
-1. fifty-cent word: a short, simple, or frequently used word
-1. five-dollar word: a long, complex, or uncommon (perhaps archaic) word (often perceived (by some) as being sophisticated or scholarly).
+1. *fifty-cent word:* a short, simple, or frequently used word
+1. *five-dollar word:* a long, complex, or uncommon (perhaps archaic) word (often perceived (by some) as being sophisticated or scholarly).
 
 Some examples of five-dollar words and their roughly equivalent fifty-cent versions:
 
@@ -43,32 +43,38 @@ In response to this rule, I've been told that the expression of your ideas is mo
 
 ## Rule 2: Focus on your topic
 
-Some people write about things that are not directly related to the primary topic. For example, suppose I am tasked with writing an essay about what an artwork says about time (its nature or our experience of it) and how it says it. In the paper, I write about how fantastic the artwork is and how it has made an impression on millions of people across the globe. As your reader, I may agree with you, but this information is off topic: the task of the paper was to write about the artwork's relation to time, not to evaluate its quality.
+Some people write about things that are not directly related to the primary topic. For example, suppose you are tasked with writing an essay about what an artwork says about time (its nature or our experience of it) and how it says it.
+
+![The Triumph of Time by George Pencz, c.1500](imgs/time.jpg)
+
+In the paper, you write about how fantastic the artwork is and how it has made an impression on millions of people across the globe. As your reader, I may agree with you, but this information is off topic: the task of the paper was to write about the artwork's relation to time, not to evaluate its quality or its impression on people.
 
 Here is an argument in support of this rule:
 
-- P1: One of the primary goals of writing is to communicate information as precisely *and as quickly* as possible to your intended audience. 
-- P2: Including irrelevant details in your writing takes time.
+- P1: One of the primary goals of writing is to communicate relevant information as precisely *and as quickly* as possible to your intended audience. 
+- P2: Including irrelevant details in your writing takes time
 - C: Therefore, only include information that is directly relevant to your topic.
 
 In response to this rule, I've been told that these details often help engagement on a personal level. Writing is partly about self-expression.
 
 ## Rule 3: Avoid sweeping generalizations (even if true)
 
-Suppose I am tasked with explaining how "knowledge" should not be understood as "justified true belief". My paper will take a few samples of philosophers who understand "knowledge" in this way and then show how their understanding is mistaken. However, suppose I begin my paper as follows:
+Suppose you have just read a very short [paper](https://doi.org/10.1093/analys/23.6.121) that has argued that "knowledge" should not be understood as "justified true belief". You will to develop this idea and so wish to use point to a few samples of philosophers who understand *do* understand "knowledge" in this way. Your plan, of course, is to show how they are mistaken. However, suppose you begin my paper as follows:
 
 > From the dawn of time, philosophers have consider what it means to know something. 
 
-There are a few things wrong with starting my paper in this way. First, I do not plan on writing a history of how philosophers have understood the meaning of "knowledge". So, this sentence is somewhat misleading to the topic of the paper. Second, this particular generalization is controversial (and likely false). So, my paper begins with a statement that I do not know to be true, do not plan on proving, and will be rejected by some of its readers. 
+There are a few things wrong with starting your paper in this way. First, you do not plan on writing a history of how philosophers have understood the meaning of "knowledge". So, this sentence is off topic (see Rule 2). Second, this particular generalization is *controversial* (and likely false). 
 
-If we should avoid generalizing, what is a better way to start? My suggestion is that you restrict your claims to (1) generalizations that you have a high degree of confidence that others would accept or (2) what you can prove. Here is a suggestion:
+If we should avoid generalizing, what is a better way to start? My suggestion is that you restrict your claims to (1) generalizations that you have a high degree of confidence that others would accept or (2) what you can prove (or will prove in your paper). Here is a suggestion:
 
 > In this paper, I provide evidence that some philosophers have analyzed "knowledge" as "justified, true belief. I argue that this analysis is mistaken.
 
-Notice that rather than making a sweeping generalization over the history of time and philosophy, the above statement is restricted to what *some* philosophers think about knowledge. The paper also does not plan to prove that these philosophers think that this is the case. It only aims to provide evidence that they think about knowledge in terms of justified-true belief.
+Notice that rather than making a sweeping generalization over the history of time and philosophy, the above statement is restricted to what *some* philosophers think about knowledge. To prove this, you will provide examples in your paper.
 
-- P1: One of the primary goals of writing is to communicate *relevant* information as precisely and as quickly as possible to your intended audience. 
-- P2: Sweeping generalizations in your work tend not to be directly relevant to your paper topic. 
+Here is an argument in support of this rule:
+
+- P1: One of the primary goals of writing is to communicate information that is  relevant and rationally supported, and to do so as precisely and as quickly as possible to your intended audience. 
+- P2: Sweeping generalizations in your work tend not to be directly relevant to your paper topic and are usually not supported by evidence or argument.
 - C: Therefore, avoid sweeping generalizations.
 
 In response to this rule, I've been told that false generalizations encourages engagement. A provocative generalization challenges the reader to find counter-examples. 

@@ -46,4 +46,5 @@ Date Submitted<br>
 1. Another Great Reference Citation
 
 ## Sample Template
-
+ 
+You can find template files in the [templates](https://github.com/davidagler/howtowritephilosophy/tree/main/templates) folder.
