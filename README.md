@@ -1,6 +1,6 @@
 # How to Write Philosophy Papers
 
-Some basic writing-related instruction for students who take my writing-intensive philosophy courses. It includes some instruction on basic [skills](#skills) (e.g., using metadisource, arguing, etc.) along with [templates](#templates) for writing certain kinds of philosophy essays.
+Some basic writing-related instruction for students who take my writing-intensive philosophy courses. It includes instruction on basic [skills](#skills) (e.g., using metadisource, arguing, etc.), [templates](#templates) for writing certain kinds of philosophy essays, and writing [assignments](#assignments).
 
 ## Skills
 
@@ -18,7 +18,11 @@ Here is the order in which the lessons are intended to be completed:
 
 1. [Passage Interpretation Paper (PIP)](/assignments/pip.md)
 1. [Simple Essay](/assignments/simple_essay.md)
+1. [Developmental Paper](/assignments/development_essay.md)
+1. Secondary Source Summary (SSS) - TBA
+1. Essay Proposal - TBA
 1. Argumentative Essay - TBA
+
 
 ## Templates
 

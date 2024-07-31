@@ -10,3 +10,13 @@ Passage interpretation papers (PIPs) are short writing assignments where student
 5. Take a stance: State whether you agree or disagree with what the passage is claiming and present an argument for your view in *argument standard form*. In addition, explain all of the premises of your argument. Note, the argument you provide in support of your view should be minimally persuasive to an intelligent but unbiased reader. That is, you should not make use of reasons that are purely subjective (e.g., I think violence in sport is good because it is my personal view that it is good). If you need help with how to put an argument in argument standard form, consult [How to Present Your Argument](../lessons/argue.md).
 
 A template for a PIP assignment can be found in the [templates](https://github.com/davidagler/howtowritephilosophy/tree/main/templates) folder.
+
+## Sample Rubric
+
+Simple rubric for PIP paper (out of 100pts):
+
+1. Passage: 10pts
+2. Citation: 10pts
+3. Explanation: 50pts
+4. Example: 20pts
+5. Stance: 10pts
