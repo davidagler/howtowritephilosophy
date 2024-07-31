@@ -24,3 +24,7 @@ In putting forward your argument, here are some tips:
  - Tip 4. Be explicit about the reasons that support your position. It helps to signal them with the following phrases: “There are two reasons for why theory X is true. First, Y. Second Z.”
 
 Finally, *Section 4* should be a conclusion where you (in a few lines) briefly summarize the contents of your paper. You can do this in a few lines. You can also indicate any caveats you have or areas that require further research.
+
+## What Next?
+
+If you are looking for a more developed paper, try the [developmental philosophy paper](../assignments/development_essay.md)
