@@ -1,12 +1,14 @@
 # Developmental Philosophy Essay
 
-This essay builds on the [simple philosophy essay](/assignments/simple_essay.md). The simple philosophy essay (1) introduces a philosophical topic, (2) clarifies a philosophical theory or concept, and then (3) evaluates the theory or concept by arguing for some thesis. The developmental philosophy essay extends this type of paper by (4) raising a possible objection or criticism to the argument supplied in the simple paper and (5) responds to that objection. 
+This essay builds on the [simple philosophy essay](../assignments/simple_essay.md). The simple philosophy essay (1) introduces a philosophical topic, (2) clarifies a philosophical theory or concept, and then (3) evaluates the theory or concept by arguing for some thesis. The developmental philosophy essay extends this type of paper by (4) raising a possible objection or criticism to the argument supplied in the simple paper and (5) responds to that objection. 
 
 The goals of this paper are the same as the simple philosophy paper except one additional goal is to *encourage the writer to critically about their thesis and argument*.
 
+## How to Write
+
 Let's start the paper by downloading the [developmental essay](https://github.com/davidagler/howtowritephilosophy/tree/main/templates) from the templates folder.
 
-The structure of this essay is similar to the simple essay except that there are *five* sections instead of four sections. Here are the sections:
+Notice that the structure of this essay is similar to the simple essay except that there are *five* sections instead of four sections. Here are the sections:
 
 1. Introduction
 2. Clarification of a Problem
@@ -14,7 +16,7 @@ The structure of this essay is similar to the simple essay except that there are
 4. Objection and Response (new section!)
 5. Conclusion
 
-For details concerning how to write sections (1)-(3) and (5), review the [simple philosophy essay](/assignments/simple_essay.md). In what follows here, we will consider how to complete section 4 (Objection and Response).
+For details concerning how to write sections (1)-(3) and (5), review the [simple philosophy essay](../assignments/simple_essay.md). In what follows here, we will consider how to complete section 4 (Objection and Response).
 
 Section 4  should have two parts: (1) a criticism (objection) to your argument and (2) a response to that criticism. Let's start with the criticism portion first.
 
@@ -26,9 +28,11 @@ If section 3 is completed, then you should have an argument for a thesis and thi
 - P2: Y is the case.
 - C: Therefore, Z is the case (your thesis).
 
-An argument is typically criticized in one of three ways. First, the argument is said to be invalid (its conclusion does not follow from its premises). Second, one of the premises is said to be false (e.g., P1 is false). Third, one of the premises is said to be irrelevant (e.g., P2 is irrelevant). 
+An argument is typically criticized in one of three ways. First, the argument is said to be invalid (its conclusion does not follow from its premises). Second, one of the premises is said to be false (e.g., P1 is false). Third, one of the premises is said to be irrelevant to the conclusion (e.g., P2 is irrelevant to C). 
 
-Let's focus on criticizing the argument by claiming one of the premises is false. In terms of writing, you would explicitly state (1) which premise is false and (2) give reasons (or an argument) for why it is false.
+Let's focus on criticizing the argument by claiming one of the premises is false. In terms of writing, you would explicitly state (1) which premise is false and (2) give reasons (or an argument) for why it is false. 
+
+> "P1 states that X is the case. This is false for reasons A, B, and C.
 
 ## Responding to that criticism
 
