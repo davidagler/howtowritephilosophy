@@ -17,7 +17,8 @@ Here is the order in which the lessons are intended to be completed:
 ## Assignments
 
 1. [Passage Interpretation Paper (PIP)](/assignments/pip.md)
-1. [Standard Essay](/assignments/standard_essay.md)
+1. [Simple Essay](/assignments/simple_essay.md)
+1. Argumentative Essay - TBA
 
 ## Templates
 
