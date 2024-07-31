@@ -47,7 +47,9 @@ Some people write about things that are not directly related to the primary topi
 
 ![The Triumph of Time by George Pencz, c.1500](imgs/time.jpg)
 
-In the paper, you write about how fantastic the artwork is and how it has made an impression on millions of people across the globe. As your reader, I may agree with you, but this information is off topic: the task of the paper was to write about the artwork's relation to time, not to evaluate its quality or its impression on people.
+In the paper, you write about how fantastic the artwork is and how it has made an impression on millions of people across the globe. As your reader, I may agree with you, but this information is off topic: the task of the paper was to write about the artwork's relation to time, not to evaluate its quality or its impression on people. 
+
+> Rule 2: Whenever possible, avoid including information that is irrelevant to the central topic of your paper.
 
 Here is an argument in support of this rule:
 
@@ -57,7 +59,23 @@ Here is an argument in support of this rule:
 
 In response to this rule, I've been told that these details often help engagement on a personal level. Writing is partly about self-expression.
 
-## Rule 3: Avoid sweeping generalizations (even if true)
+## Rule 3: Avoid anecdotes
+
+Let's consider another rule that could be a species of the previous rule. Suppose you are debunking arguments put forward by people who believe that the earth is flat (flat-earthers). In debunking these arguments, you offer a few stories about flat-earthers you've encountered. These stories are anecdotes. An *anecdote* is a short story involving a real event, experience, or person. Why are you offering up an anecdote?
+
+First, you might offer an anecdote because it helps explain why you are interested in debunking the claims made by flat-earthers. If so, then, at least for one point in your writing, the debunking of the claims is not the subject matter. Rather, you are the subject matter. In some cases, your audience might not care about you or your motivation. They only want to know about the debunking. So, you are offering irrelevant information: [violation of rule 2](#rule-2-focus-on-your-topic).
+
+Second, you might offer an anecdote as *evidence* for a claim you are making. One way to do this is to tell a story about a person who you take to be representative of a position you plan to criticize. In this case, ask yourself whether anything about the person is relevant for criticizing the position itself. For example, suppose again you plan on debunking positions held by flat-earthers. To introduce the topic, you offer an anecdote of a flat-earther you met. You point out their straggly appearance, indicate the political party they support, and describe some of their mannerisms. None of this is relevant to the debunking of the position.
+
+It is my contention that, except in rare cases involving people who live extraordinary lives, adding anecdotes into one's writing should be avoided. They tend to be irrelevant, prompt readers to engage in fallacious forms of reasoning, and a waste of your reader's time.
+
+- P1: One of the primary goals of writing is to communicate information that is  relevant and rationally supported, and to do so as precisely and as quickly as possible to your intended audience. 
+- P2: Anecdotes tend to introduce irrelevant information.
+- C: Therefore, avoid anecdotes.
+
+In response to this rule, some people are highly impressed by personal anecdotes and so their use has persuasive value. If your concern is impressing your audience rather than rationally persuading them, then anecdotes can be a powerful tool.
+
+## Rule 4: Avoid sweeping generalizations (even if true)
 
 Suppose you have just read a very short [paper](https://doi.org/10.1093/analys/23.6.121) that has argued that "knowledge" should not be understood as "justified true belief". You will to develop this idea and so wish to use point to a few samples of philosophers who understand *do* understand "knowledge" in this way. Your plan, of course, is to show how they are mistaken. However, suppose you begin my paper as follows:
 
@@ -78,22 +96,6 @@ Here is an argument in support of this rule:
 - C: Therefore, avoid sweeping generalizations.
 
 In response to this rule, I've been told that false generalizations encourages engagement. A provocative generalization challenges the reader to find counter-examples. 
-
-## Rule 4: Avoid anecdotes
-
-Suppose you are debunking arguments put forward by people who believe that the earth is flat (flat-earthers). In debunking these arguments, you offer a few stories about flat-earthers you've encountered. These stories are anecdotes. An *anecdote* is a short story involving a real event, experience, or person. Why are you offering up an anecdote?
-
-First, you might offer an anecdote because it helps explain why you are interested in debunking the claims made by flat-earthers. If so, then, at least for one point in your writing, the debunking of the claims is not the subject matter. Rather, you are the subject matter. In some cases, your audience might not care about you or your motivation. They only want to know about the debunking. So, you are offering irrelevant information: [violation of rule 2](#rule-2-focus-on-your-topic).
-
-Second, you might offer an anecdote as *evidence* for a claim you are making. One way to do this is to tell a story about a person who you take to be representative of a position you plan to criticize. In this case, ask yourself whether anything about the person is relevant for criticizing the position itself. For example, suppose again you plan on debunking positions held by flat-earthers. To introduce the topic, you offer an anecdote of a flat-earther you met. You point out their straggly appearance, indicate the political party they support, and describe some of their mannerisms. None of this is relevant to the debunking of the position.
-
-It is my contention that, except in rare cases involving people who live extraordinary lives, adding anecdotes into one's writing should be avoided. They tend to be irrelevant, prompt readers to engage in fallacious forms of reasoning, and a waste of your reader's time.
-
-- P1: One of the primary goals of writing is to communicate information that is  relevant and rationally supported, and to do so as precisely and as quickly as possible to your intended audience. 
-- P2: Anecdotes tend to introduce irrelevant information.
-- C: Therefore, avoid anecdotes.
-
-In response to this rule, some people are highly impressed by personal anecdotes and so their use has persuasive value. If your concern is impressing your audience rather than rationally persuading them, then anecdotes can be a powerful tool.
 
 ## Rule 5: Use Examples and Illustrations to Aid Understanding
 
