@@ -14,10 +14,14 @@ Here is the order in which the lessons are intended to be completed:
 1. [How to Write with Style](/lessons/style.md)
 1. [Write an Essay with a Template](/lessons/templates.md)
 
+## Assignments
+
+1. [Passage Interpretation Paper (PIP)](/assignments/pip.md)
+1. [Standard Essay](/assignments/standard_essay.md)
+
 ## Templates
 
 You can find template files in the [templates](https://github.com/davidagler/howtowritephilosophy/tree/main/templates) folder.
-
 
 ## For Instructors
 
