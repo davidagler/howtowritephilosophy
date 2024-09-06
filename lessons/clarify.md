@@ -1,6 +1,7 @@
 # How to Clarify
 
-Many of these ideas of philosophy (e.g., person, free will, object) are unclear. In order to avoid talking past each other, philosophers are concerned with clarifying their terms as much as possible. In clarifying an idea, philosophers generally try to (1) make the idea more understandable or (2) make it more precise (or both). 
+Unclear language is said to die as soon as it is spoken since it fails to be understood by those that hear it. 
+Since many of these ideas of philosophy (e.g., person, free will, object) are unclear, one of the goals of philosophers is to clarifying their terms as much as possible. In clarifying an idea, philosophers generally try to (1) make the idea more understandable or (2) make it more precise (or both). 
 
 ## Methods of Clarification
 
