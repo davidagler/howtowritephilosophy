@@ -12,6 +12,7 @@ Here is the order in which the lessons are intended to be completed:
 1. [How to Use Metadiscourse](/lessons/metadiscourse.md)
 1. [How to Clarify](/lessons/clarify.md)
 1. [How to Write with Style](/lessons/style.md)
+1. [Removing Fluff](/lessons/fluff.md)
 1. [Write an Essay with a Template](/lessons/templates.md)
 
 ## Assignments
