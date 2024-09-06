@@ -1,6 +1,6 @@
 # How to Present Your Argument
 
-This essay focuses on how to present philosophical arguments in the context of a paper. It is not designed to teach you argumentation or *how to argue*. The latter topics far exceed a single tutorial. 
+This tutorial focuses on how to present philosophical arguments in the context of a paper. It is not designed to teach you argumentation or *how to argue*. The latter topics exceed a single tutorial. 
 
 ## Two Ways to Present Your Argument
 
