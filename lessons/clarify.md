@@ -29,7 +29,7 @@ Once a definition is supplied, further clarity can be gained by defining any unc
 
 Second, very often we clarify an idea, our primary goal is not to articulate what people mean when they use the word. If that were the case, then a dictionary definition (along with analysis) would be sufficient. Instead, what we aim to do is to *explicate* or *precisify* an idea. In explicating an idea, the goal is *not* to get at what "the hidden meaning of a word" or what a language user means "deep down" by a word. Rather, it is an effort to fix problems or confusions with the existing meaning of the term by (1) keeping the essential function or meaning of the term but (2) replacing unclear or confusiong aspects of the term with precise ones. Here is how Quine defines *explication*:
 
-> "[When we explicate,] we do not claim synonymy. We do not claim to make clear and explicit what the users of the unclear expression had unconsciously in mind all along. We do not expose hidden meanings [...]; we supply lacks. We fix on the particular functions of the unclear expression that make it worth troubling about, and then devise a substitute, clear and couched in terms to our liking, that fills those functions. (Quine *Word and Object*: 258-9).
+> "[When we explicate,] we do not claim synonymy. We do not claim to make clear and explicit what the users of the unclear expression had unconsciously in mind all along. We do not expose hidden meanings [...]; we supply lacks. We fix on the particular functions of the unclear expression that make it worth troubling about, and then devise a substitute, clear and couched in terms to our liking, that fills those functions." (Quine *Word and Object*: 258-9).
 
 Here is another statement from Quine about explication:
 
