@@ -20,7 +20,7 @@ Third, now that you've read the source, briefly summarize the reading in your ow
 
 ## Basic Structure
 
-Here is the basic structure of this assignment, but see the templates folder for a downloadable version:
+Here is the basic structure of this assignment, but see the [templates folder](https://github.com/davidagler/howtowritephilosophy/tree/main/templates) for a downloadable version:
 
 - Source: Stango, M. & Agler, D. W. (2017). Human body, enhancement, and the missing technomoral virtue. *Sociología y tecnociencia*, 8(1), 43-59
 - Main claim / thesis: The main claim of this essay is . . .

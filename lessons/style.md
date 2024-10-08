@@ -1,6 +1,6 @@
 # How to Write with Style
 
-In what follows, I will present five rules concerning style. These rules are for writing philosophical papers but they also apply to non-philosophical subject matters as well (e.g., argumentative writing more generally). I will provide arguments for these rules. Since I don't think any of these arguments are knockdown arguments, I'll present some criticisms to these rules. 
+In what follows, I present five rules to follow if you want to write in a clear style. These rules are for writing philosophical papers but they also apply to non-philosophical subject matters as well (e.g., argumentative writing more generally). I provide arguments for these rules. Since I don't think any of these arguments are knockdown arguments, I'll present some criticisms to these rules. 
 
 ## Rule 1: Avoid jargon and five-dollar words
 
