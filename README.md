@@ -20,10 +20,9 @@ Here is the order in which the lessons are intended to be completed:
 1. [Passage Interpretation Paper (PIP)](/assignments/pip.md)
 1. [Simple Essay](/assignments/simple_essay.md)
 1. [Developmental Paper](/assignments/development_essay.md)
-1. Secondary Source Summary (SSS) - TBA
+1. [Secondary Source Summary (SSS)](/assignments/ss.md)
 1. Essay Proposal - TBA
 1. Argumentative Essay - TBA
-
 
 ## Templates
 
