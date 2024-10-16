@@ -30,3 +30,5 @@ Here is the basic structure of this assignment, but see the [templates folder](h
 - The fourth point is that . . .
 - The fifth point is that . . .
 - Organization: The essay is organized in a logical manner. It first states the thesis, then provides historical background on X, Y, and Z, and finally proceeds to defend the main claim of the essay.
+
+<!--- TODO: Add more templates -->
