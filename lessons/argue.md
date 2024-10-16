@@ -25,7 +25,7 @@ One presents an argument in argument standard form rather than in the text for s
 
 In the above passage, having the label "P1" makes it easier to refer back to this specific part of the argument. The use of labels also criticism of arguments clear. For example, if I were to argue that the above argument is bad, I could make it clear which part of the argument is flawed, e.g., I could say "the above argument is flawed because P1 is false." 
 
-Second, some people find reading arguments that are put in standard form easier to understand. One reason for this is that since the argument requires labeling premises and the conclusion, the reader need not guess which of the propositions are premises (reasons) and which proposition is the conclusion.
+Second, some people find reading arguments that are put in standard form easier. One reason for this is that since the argument requires labeling premises and the conclusion, the reader need not guess which of the propositions are premises (reasons) and which proposition is the conclusion.
 
 Third, another popular reason for putting arguments in standard form is one plans on altering the argument by supplying missing premises, arguments for premises, or modifying certain propositions in the argument. To illustrate, our earlier argument aimed to show that death (posthumous nonexistence) is not bad. Suppose we wished to *extend* this argument by using this conclusion as a premise (or as an intermediate conclusion: "IC") for the argument that there is no reason to fear death. We might extend our above argument as follows:
 
@@ -46,9 +46,10 @@ Finally, let's assume that we wanted to provide an argument for P5 rather than m
 - P5.2: There is no life after death.
 - P5: The effect of the event of death is posthumous nonexistence.
 
-## Exercises
+## Video Resources
 
-1. Find an argument and express it in argument standard form.
-1. Take the argument and either extend the argument by adding premises for a new conclusion.
-1. Modify one of the premises of your argument.
+1. [Argument Standard Form](https://www.youtube.com/watch?v=EVpOMUav_uE) 
+1. [Explaining Philosophical Arguments](https://www.youtube.com/watch?v=EWEKuxvGLLo) by Ryan Pollock
+1. [How to Criticize a Philosophical Argument](https://www.youtube.com/watch?v=HnA7pLVmePM) by Ryan Pollock
+
 
