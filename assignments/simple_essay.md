@@ -12,9 +12,14 @@ Next, let's divide your paper into **four** sections. You should label each of t
 
 *Section 1* should be an introduction where you do each of the following: (1) give a brief summary of the plan of your paper where you state what each section of your paper will accomplish, (2) a single-line statement of your position (your thesis) on this particular topic. This section is introductory; you are simply preparing your reader for what is to come and so be brief but clear.
 
-*Section 2* should be your clarification section. Here is where you articulate key ideas, theories, terms or arguments that are necessary for understanding each of the theories you plan on comparing. Your goal here is to make each of the theories more understandable. In this section, you must (1) quote and explain at least one line of the reading (including an appropriate in-text and reference citation) and (2)  use of an example that illustrates the topic you are discussing.
+*Section 2* is your clarification section. Here is where you supply context and articulate key ideas that are necessary for understanding the idea or theory you plan on arguing for. In this section, you would want to supply the reader with what they need to know about the topic you are writing about. Some examples:
 
-*Section 3* should be your argumentative section where you provide an argument that explicitly states whether you agree or disagree with the idea or theory you have clarified in \emph{Section 2} and you must give reasons in support for your position. In arguing for your position, you should express your argument in argument standard form ([What is Argument Standard Form?](https://www.youtube.com/watch?v=EVpOMUav_uE)), \emph{explain} each of the premises of the argument, and then support the premises of your argument (state why they are true). 
+- If you are writing about the ethics of performance-enhancing drugs (PEDS) in sports, you want to state what is or is not a PED, give an example of an athlete using a PED, define any key moral terms, or explain the relevant moral positions on the topic
+- If you are writing about whether human beings are free or if all of their actions are fated, then you want to define what it means to be "free" or for an action to be "fated", along with the relevant theories or debates you plan on discussing in your paper.
+
+In this section, you must (1) quote and explain at least one line of the reading (including an appropriate in-text and reference citation) and (2) use of an example that illustrates the topic you are discussing.
+
+*Section 3* should be your argumentative section where you provide an argument that explicitly states whether you agree or disagree with the idea or theory you have clarified in *Section 2* and you must give reasons in support for your position. In arguing for your position, you should express your argument in argument standard form ([What is Argument Standard Form?](https://www.youtube.com/watch?v=EVpOMUav_uE)), \emph{explain} each of the premises of the argument, and then support the premises of your argument (state why they are true). 
 
 To illustrate, suppose you put forward your argument like this:
 
@@ -38,6 +43,14 @@ In putting forward your argument, here are some tips:
  - Tip 4. Be explicit about the reasons that support your position. It helps to signal them with [metadiscourse](../lessons/metadiscourse): “There are two reasons for why theory X is true. First, Y. Second Z.”
 
 Finally, *Section 4* should be a conclusion where you (in a few lines) briefly summarize the contents of your paper. You can do this in a few lines. You can also indicate any caveats you have or areas that require further research.
+
+## Basic Rubric
+
+- 10pts - Paper Details (name, title, word count, paper sections, and reference citations)
+- 10pts - Section 1 contains clear summary of plan of paper, single-line thesis statement
+- 35pts - Section 2 defines important terms, clarifies key ideas and theories, illustrates ideas with an example, quotes and explains one passage from course reading
+- 35pts - Section 3 supplies argument for the thesis in standard form, explains each premise, defends each premise effectively.
+- 10pts - Section 4 summarize the paper.
 
 ## What Next?
 
