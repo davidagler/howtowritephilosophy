@@ -1,6 +1,6 @@
 # Simple Essay
 
-Let's write a simple philosophy essay. In this paper, you will (1) introduce a philosophical topic, (2) clarify a philosophical theory or concept, and then (3) evaluate the theory or concept. The two primary goals in writing this type of essay are (1) developing your ability to clarify philosophical ideas and (2) arguing for a philosophical position in a clearer and more systematic way.
+Let's write a simple philosophy essay. In this paper, you will (1) introduce a philosophical idea or theory, (2) clarify / explain that idea or theory, and then (3) argue for that idea or theory. The two primary goals in writing this type of essay are (1) developing your ability to clarify philosophical ideas and (2) arguing for a philosophical position in a clearer and more systematic way.
 
 Let's start the paper by either (1) downloading the [simple essay](https://github.com/davidagler/howtowritephilosophy/tree/main/templates) from the templates folder or (2) writing items found in most papers:
 
@@ -14,7 +14,21 @@ Next, let's divide your paper into **four** sections. You should label each of t
 
 *Section 2* should be your clarification section. Here is where you articulate key ideas, theories, terms or arguments that are necessary for understanding each of the theories you plan on comparing. Your goal here is to make each of the theories more understandable. In this section, you must (1) quote and explain at least one line of the reading (including an appropriate in-text and reference citation) and (2)  use of an example that illustrates the topic you are discussing.
 
-*Section 3* should be your argumentative section where you provide an argument that explicitly states whether you agree or disagree with the idea you have explored and the reasons for your position. In arguing for your position, you should express your argument in argument standard form ([What is Argument Standard Form?](https://www.youtube.com/watch?v=EVpOMUav_uE)), explain each of the premises of the argument, and then support that argument with reasons.
+*Section 3* should be your argumentative section where you provide an argument that explicitly states whether you agree or disagree with the idea or theory you have clarified in \emph{Section 2} and you must give reasons in support for your position. In arguing for your position, you should express your argument in argument standard form ([What is Argument Standard Form?](https://www.youtube.com/watch?v=EVpOMUav_uE)), \emph{explain} each of the premises of the argument, and then support the premises of your argument (state why they are true). 
+
+To illustrate, suppose you put forward your argument like this:
+
+```
+- P1: Premise 1
+- P2: Premise 2
+- C: Conclusion
+```
+
+You would then clarify and support each of these premises. Be sure to distinguish when you are *explaining what the premise says* and when you are *supplying reasons for why the premise is true*. Here is an example:
+
+> P1 says A. This premise is true because of C. P2 says B. This premise is true because of D.
+
+
 
 In putting forward your argument, here are some tips:
 
