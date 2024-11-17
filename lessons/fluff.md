@@ -19,7 +19,7 @@ This sentence is concise but we can make it more concise by eliminating two word
 
 > "Her story is ~~a~~ strange ~~one~~."
 
-Another example from Shrunk Jr. is that we can eliminate * the fact* from sentences:
+Another example from Shrunk Jr. is that we can eliminate *the fact* from sentences:
 
 1. Tek was unaware ~~of the fact~~ that the earth is a sphere.
 1. Tek didn't know ~~the fact~~ that the earth is a sphere.
@@ -28,11 +28,11 @@ Here is a third example. Bain writes that we sometimes use *two* words where *on
 
 > "it was the *privilege* and *birthright* of every *citizen* and *poet*, to rail *aloud* and *in public*."
 
-Such a sentence might be simplified as follows:
+This sentence may be simplified as follows:
 
 > "it was the *privilege* of every *citizen* to rail *in public*."
 
-Some other examples:
+Try to simplify the following sentences:
 
 1. Tek's mind is the sharpest and keenest
 1. Tek's plan was pure and simple
@@ -42,27 +42,52 @@ Some other examples:
 
 # Rewriting sentences
 
-In order to be brief, it is necessary not that words are removed but that the sentence (or portions of the sentence) is rewritten. Consider the following obvious examples:
+Rather than removing words, another way to remove fluff is to rewrite the sentence. Our discussion of how to simplify sentences revolves around the following "Master Rule":
 
-1. Single words may be substituted for phrases
-1. Long phrases may be substituted with shorter ones
+> *Rule 1:* Substitute words for phrases. 
 
-Let's consider some less obvious examples. Authors often tell their readers *what is not the case*. For instance, Jon may tell Liz the following:
+Consider the following sentence:
 
-> "Tek is not to be trusted".
+> "Tek is *turned a blind eye to* Liz."
+> "Tek is *turned a deaf ear to* Liz."
 
-However, it is usually more concise and more desirable to say *what is the case*. Jon could simply say the following:
+If we mean to say that Tek intentionally disregarded Liz, we can rewrite this sentence by substituting a single word for the highlighted phrase:
 
-> "Tek is untrustworthy."
+> "Tek is *ignored* Liz."
 
-So, rather than saying "not honest", write "dishonest". Rather than "did not remember", use "forgot". Here are a few more examples:
+But what about if Tek's disregard of Liz is unintentional? For example, 
 
-1. not important -> unimportant / trifling
-1. did not pay attention to / ignored
-1. did not have confidence in / distrusted
-1. Tek is not to be trusted / Tek is untrustworthy.
+> "Tek did not pay attention to Liz". 
+> "Tek took no notice of Liz."
 
-In short, we can be more concise by saying what is the case than what is not the case.
+The above sentences may be rewritten as follows:
+
+> "Tek overlooked Liz."
+
+With our Master Rule in place, consider some rules for how to apply this rule. One common scenario for when it should be applied is when a phrase says something is *not* the case.
+
+> *Rule 1.1:* Check whether there is a single word that captures the meaning of a negative phrase (phrases where something is denied of something else).
+
+Consider the following example: 
+
+> "Tek *did not have confidence in* his abilities."
+
+The negative phrase in the sentence above may be replaced as follows:
+
+> "Tek *distrusted* his abilities."
+
+Another common scenario for when the Master Rule might be applied is when phrases are used to *soften* sentences (see Gowers, *The Complete Plain Words*, p.69). Suppose you ask for a raise. You receive the following response:
+
+> "The Company is *not prepared to approve* your request for a raise."
+> "The Company is *not in a position to approve* your request for a raise."
+> "The Company *does not see a way to approve* your request for a raise."
+
+The above can be rewritten as follows:
+
+> "The Company *rejects* your request for a raise."
+> "The Company *denies* your request for a raise."
+
+The former group of sentences is probably more polite (albeit potentially dishonest), while the latter is more direct.
 
 ## Philosophical Fluff
 
