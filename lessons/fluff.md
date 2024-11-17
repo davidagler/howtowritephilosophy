@@ -53,7 +53,7 @@ Consider the following sentence:
 
 If we mean to say that Tek intentionally disregarded Liz, we can rewrite this sentence by substituting a single word for the highlighted phrase:
 
-- "Tek is *ignored* Liz."
+- "Tek *ignored* Liz."
 
 But what about if Tek's disregard of Liz is unintentional? For example, 
 
@@ -64,7 +64,7 @@ The above sentences may be rewritten as follows:
 
 - "Tek overlooked Liz."
 
-With our Master Rule in place, consider some rules for how to apply this rule. One common scenario for when it should be applied is when a phrase says something is *not* the case.
+Consider scenarios in which the Master Rule might be applied. One common scenario is when a phrase says something is *not* the case.
 
 > *Rule 1.1:* Check whether there is a single word that captures the meaning of a negative phrase (phrases where something is denied of something else).
 
@@ -75,6 +75,14 @@ Consider the following example:
 The negative phrase in the sentence above may be replaced as follows:
 
 - "Tek *distrusted* his abilities."
+
+Another example: 
+
+- "Tek *was not paying attention* during the lesson."
+
+The negative phrase in the sentence above may be replaced as follows:
+
+- "Tek *inattentive* during the lesson."
 
 Another common scenario for when the Master Rule might be applied is when phrases are used to *soften* sentences (see Gowers, *The Complete Plain Words*, p.69). Suppose you ask for a raise. You receive the following response:
 
