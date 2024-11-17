@@ -48,21 +48,21 @@ Rather than removing words, another way to remove fluff is to rewrite the senten
 
 Consider the following sentence:
 
-> "Tek is *turned a blind eye to* Liz."
-> "Tek is *turned a deaf ear to* Liz."
+- "Tek is *turned a blind eye to* Liz."
+- "Tek is *turned a deaf ear to* Liz."
 
 If we mean to say that Tek intentionally disregarded Liz, we can rewrite this sentence by substituting a single word for the highlighted phrase:
 
-> "Tek is *ignored* Liz."
+- "Tek is *ignored* Liz."
 
 But what about if Tek's disregard of Liz is unintentional? For example, 
 
-> "Tek did not pay attention to Liz". 
-> "Tek took no notice of Liz."
+- "Tek did not pay attention to Liz". 
+- "Tek took no notice of Liz."
 
 The above sentences may be rewritten as follows:
 
-> "Tek overlooked Liz."
+- "Tek overlooked Liz."
 
 With our Master Rule in place, consider some rules for how to apply this rule. One common scenario for when it should be applied is when a phrase says something is *not* the case.
 
@@ -70,22 +70,22 @@ With our Master Rule in place, consider some rules for how to apply this rule. O
 
 Consider the following example: 
 
-> "Tek *did not have confidence in* his abilities."
+- "Tek *did not have confidence in* his abilities."
 
 The negative phrase in the sentence above may be replaced as follows:
 
-> "Tek *distrusted* his abilities."
+- "Tek *distrusted* his abilities."
 
 Another common scenario for when the Master Rule might be applied is when phrases are used to *soften* sentences (see Gowers, *The Complete Plain Words*, p.69). Suppose you ask for a raise. You receive the following response:
 
-> "The Company is *not prepared to approve* your request for a raise."
-> "The Company is *not in a position to approve* your request for a raise."
-> "The Company *does not see a way to approve* your request for a raise."
+- "The Company is *not prepared to approve* your request for a raise."
+- "The Company is *not in a position to approve* your request for a raise."
+- "The Company *does not see a way to approve* your request for a raise."
 
 The above can be rewritten as follows:
 
-> "The Company *rejects* your request for a raise."
-> "The Company *denies* your request for a raise."
+- "The Company *rejects* your request for a raise."
+- "The Company *denies* your request for a raise."
 
 The former group of sentences is probably more polite (albeit potentially dishonest), while the latter is more direct.
 
