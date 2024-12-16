@@ -32,7 +32,7 @@ An argument is typically criticized in one of three ways. First, the argument is
 
 Let's focus on criticizing the argument by claiming one of the premises is false. In terms of writing, you would explicitly state (1) which premise is false and (2) give reasons (or an argument) for why it is false. 
 
-> "P1 states that X is the case. This is false for reasons A, B, and C.
+> "P1 states that X is the case. This is false for reasons A, B, and C."
 
 ## Responding to that criticism
 
@@ -42,3 +42,12 @@ Now that the criticism has been raised, the second part of Section 4 should resp
 1. Argue that the criticism is based on a misunderstanding of what the theory you defend (or the argument you put forward) asserts. Your response would be to clarify the theory / argument so the criticism does not apply.
 1. Modify the theory and your original argument. For example, you might contend that the objection is a good objection but the proper response to it is to slightly modify the theory in some way.
 1. Argue that the objection is good but it does not undermine your theory since it applies to all of your theory's rivals. Generally, we choose the *best* available theory and so if an objection applies to every theory, the objection is not decisive. 
+
+## Basic Rubric
+
+- 10pts - Paper Details (name, title, word count, paper sections, and reference citations)
+- 10pts - Section 1 contains clear summary of plan of paper, single-line thesis statement
+- 25pts - Section 2 defines important terms, clarifies key ideas and theories, illustrates ideas with an example, quotes and explains one passage from course reading
+- 25pts - Section 3 supplies argument for the thesis in standard form, explains each premise, defends each premise effectively.
+- 20pts - Section 4 raises an objection to the argument from Section (3) by indicating one of the three ways that an argument might fail (e.g., false premise, invalid, irrelevance). In addition, this section responds to that objection.
+- 10pts - Section 4 summarize the paper.
