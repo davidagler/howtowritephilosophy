@@ -48,6 +48,6 @@ Now that the criticism has been raised, the second part of Section 4 should resp
 - 10pts - Paper Details (name, title, word count, paper sections, and reference citations)
 - 10pts - Section 1 contains clear summary of plan of paper, single-line thesis statement
 - 25pts - Section 2 defines important terms, clarifies key ideas and theories, illustrates ideas with an example, quotes and explains one passage from course reading
-- 25pts - Section 3 supplies argument for the thesis in standard form, explains each premise, defends each premise effectively.
+- 25pts - Section 3 supplies an argument for the thesis in standard form, explains each premise, defends each premise effectively.
 - 20pts - Section 4 raises an objection to the argument from Section (3) using one of the three ways that an argument fails (e.g., false premise, invalid, irrelevance). In addition, this section responds to that objection.
-- 10pts - Section 4 summarize the paper.
+- 10pts - Section 5 summarizes the paper.
