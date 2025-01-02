@@ -42,7 +42,7 @@ Try to simplify the following sentences:
 
 # Rewriting sentences
 
-Rather than removing words, another way to remove fluff is to rewrite the sentence. Our discussion of how to simplify sentences revolves around the following "Master Rule":
+Rather than removing words, another way to remove fluff is to rewrite the sentence. Our discussion of how to simplify sentences *by rewriting the sentence* will be guided by a rule that we will call the "Master Rule":
 
 > *Rule 1:* Substitute words for phrases. 
 

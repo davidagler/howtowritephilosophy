@@ -11,12 +11,14 @@ First, find a secondary source that relates to the topic you plan on investigati
  
 Second, you should skim the source and check to see if it is something you want to read. If it isn't, find another source (back to step 1). If you've found something worth reading, *quickly* read the source. As you read, highlight or mark portions of the reading you think are important. In addition, identify the thesis of the source (it will usually be found at the begining of the reading or at the end). Don't waste time rereading portions of the text that you don't understand (you can always go back and read it slowly later). 
 
-Third, now that you've read the source, briefly summarize the reading in your own words. The goal is not to give a line-by-line summary of the source or even to understand the entire piece. Instead, it is to articulate the main point of the source, identify key points, and give an outline of the source's structure. If you did step 2 correctly, then you'll have highlighted several key points so you can go back to these highlighted portions and try to state (in your own words) the key points of the reading. In summarizing the source, you should do the following:
+Third, now that you've read the source, briefly summarize the reading *in your own words*. The goal is not to give a line-by-line summary of the source or even to understand the entire piece. Instead, it is to articulate the main claim of the source, identify key points, and give an outline of the source's structure. If you did step 2 correctly, then you'll have highlighted several key points so you can go back to these highlighted portions and try to state (in your own words) the key points of the reading. In writing the SSS, you should do the following:
 
 1. cite the source you are using (put this at the top of the page after your name)
 2. state the main claim / thesis of the source
 3. indicate key points made throughout the source (a) list a set of points made throughout the paper (beginning, middle, end OR section 1, section 2, section 3, etc.) (b) be informative: explain the point with a sufficient amount of depth so that your reader would learn something from your summary
 4. give a sense of the structure / organization of the source 
+
+Ultimately, you want to be able to say "Oh! I read article XYZ by Tek. The article's main claim is ABC. And, some other key ideas are: Idea 1, Idea 2, Idea 3."
 
 ## Basic Structure
 
