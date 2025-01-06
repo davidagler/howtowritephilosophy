@@ -97,7 +97,7 @@ The above can be rewritten as follows:
 
 The former group of sentences is probably more polite (albeit potentially dishonest), while the latter is more direct.
 
-## Philosophical Fluff
+## Removing Uncertainty
 
 Let's pick out one piece of fluff often found in essays. Beginning writers are often uncertain about their claims and so they use language to (1) express that their claims are from "their point of view" and (2) express their uncertainty about their claims. Let's consider an example. Suppose Tek is tasked with arguing that theory T is true. He provides several arguments that theory T is true. Tek concludes his paper as follows:
 
