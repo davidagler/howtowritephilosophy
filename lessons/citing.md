@@ -4,7 +4,7 @@ When you use a source, you should provide sufficient information about the sourc
 
 1. Society expects you to and will sometimes punish you if you don't. At a university, you may be charged with an [academic integrity violation](https://undergrad.psu.edu/aappm/G-9-academic-integrity.html). In broader society, you might face public humiliation, criticism, or even lose your job (e.g., it has been claimed that former president of Harvard University resigned due to [plagiarism allegations](https://www.theguardian.com/education/2024/jan/06/harvard-claudine-gay-plagiarism))
 1. It is helpful to others. If I'm interested in the topic of your paper and your paper was inspired by a set of readings, I might like to read what you read.
-1. Depending on how you use the source, it is unethical to pretend something is yours when it's not.
+1. If you pretend something is yours when it's not, you are lying. If you take another's ideas or results, then you are stealing. In general, lying and stealing are taken to be morally wrong.
 
 To regularize things, when you cite a source, you are expected to use a *citation style*. There are many different citation styles, e.g., [Chicago/Turabian](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/cmos_formatting_and_style_guide/chicago_manual_of_style_17th_edition.html), APA, MLA, IEEE, etc. If you are publishing a paper, the style you use will vary based on the academic discipline you are in and the place you are publishing your paper (or book). 
 
