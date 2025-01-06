@@ -48,8 +48,8 @@ Rather than removing words, another way to remove fluff is to rewrite the senten
 
 Consider the following sentence:
 
-- "Tek is *turned a blind eye to* Liz."
-- "Tek is *turned a deaf ear to* Liz."
+- "Tek *turned a blind eye to* Liz."
+- "Tek *turned a deaf ear to* Liz."
 
 If we mean to say that Tek intentionally disregarded Liz, we can rewrite this sentence by substituting a single word for the highlighted phrase:
 
