@@ -99,17 +99,19 @@ The former group of sentences is probably more polite (albeit potentially dishon
 
 ## Philosophical Fluff
 
-Let's pick out one piece of philosophical fluff often found in philosophical essays. Beginning writers are often uncertain about their claims and so they use language to express that uncertainty. Let's consider an example. Suppose Tek is tasked with arguing that theory T is true. He provides several arguments that theory T is true. However, he concludes his paper as follows:
+Let's pick out one piece of fluff often found in essays. Beginning writers are often uncertain about their claims and so they use language to (1) express that their claims are from "their point of view" and (2) express their uncertainty about their claims. Let's consider an example. Suppose Tek is tasked with arguing that theory T is true. He provides several arguments that theory T is true. Tek concludes his paper as follows:
 
 > "Therefore, from my point of view, theory T seems like it is true."
 
-There are two pieces of "fluff" in this sentence. The first is that it is irrelevant for Tek to say that theory T is true "from my point of view". It is irrelevant because the truth of the theory and the reasons presumably are independent on the author's point of view. Tek's sentence can thus be shortened as follows:
+There are two pieces of "fluff" in this sentence. It is unnecessary for Tek to write "from my point of view". This is unnecessary because we know that Tek is the author of the paper so we know that the claims being made in the paper are Tek's. Tek's sentence can thus be shortened as follows:
 
 > "Therefore, ~~from my point of view,~~ theory T seems like it is true."
 
-The second piece of fluff is the use of "seems". Tek was tasked with arguing for showing that "theory T is true" not with "theory T seeming to be true". 
+The second piece of fluff is the use of "seems". First, Tek was tasked with  showing that "theory T is true" not with "theory T seems true". Second, the task of the essay is not about Tek's level of confidence about theory T. Tek may be uncertain or strongly believe that T is true, but both of these are irrelevant to the task. Tek's sentence can again be shortened as follows:
 
 > "Therefore, ~~from my point of view,~~ theory T ~~seems like it~~ is true."
+
+
 
 # References
 
