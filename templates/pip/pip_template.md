@@ -4,7 +4,7 @@ Date Submitted
 
 # Paper Title: PIP
 
-## Section 1. Passage, Explanation, and Example
+## Section 1. Passage and Explanation
 
 In this section, I will interpret the following passage of text:
 
