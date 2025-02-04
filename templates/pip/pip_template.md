@@ -4,11 +4,7 @@ Date Submitted
 
 # Paper Title: PIP
 
-## Section 1. Introduction
-
-In this paper, I will explain X. In Section 2, I will first quote a passage from Resource Y. After quoting this passage, I will explain the passage and provide an illustration. In section 3, I will take a stance on this claim. 
-
-## Section 2. Passage, Explanation, and Example
+## Section 1. Passage, Explanation, and Example
 
 In this section, I will interpret the following passage of text:
 
@@ -16,9 +12,9 @@ In this section, I will interpret the following passage of text:
 
 Next, I will explain the above passage. This passage makes two key claims. First, when the author says X, what is meant is [...]. Second, it says ...
 
-## Section 3. Example
+## Section 2. Example
 
-To illustrate the first claim, it is helpful to think of the following example . . . .
+To illustrate my explanation above, it is helpful to think of the following example . . . .
 
 
 ## References
