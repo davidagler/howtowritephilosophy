@@ -7,7 +7,7 @@ An essay proposal (EP) is a description of an essay that one plans to write. In 
 3. one quotation from those primary sources (include the entire quotation and the citation of this quotation). You can use your entry from your PIP paper.
 4. A list of secondary sources you plan on using. You don’t need to have read all of these sources.
 
-A template for the SSS assignment can be found in the [templates](https://github.com/davidagler/howtowritephilosophy/tree/main/templates) folder.
+A template for the EP assignment can be found in the [templates](https://github.com/davidagler/howtowritephilosophy/tree/main/templates) folder.
 
 ## Sample Rubric
 
