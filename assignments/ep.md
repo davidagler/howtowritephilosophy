@@ -11,7 +11,7 @@ A template for the EP assignment can be found in the [templates](https://github.
 
 ## Sample Rubric
 
-Simple rubric for PIP paper (out of 100pts):
+Simple rubric for EP paper (out of 100pts):
 
 1. Description of paper topic: 50pts
 2. List of pages from primary source: 10pts
