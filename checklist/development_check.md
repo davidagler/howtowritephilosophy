@@ -2,8 +2,8 @@
 
 ## Basic Stuff
 
-1. Is the paper about time?
-2. Is it over 2000 words?
+1. Is the paper about an acceptable topic (e.g., time)?
+2. Is it over word limit (e.g. 2000 words)?
 3. Does it contain at least 5 **scholarly** sources? Not just websites or blog articles.
 4. Does it contain at least 5 sections?
 5. Did they use the template? Not required but highly suggested.
