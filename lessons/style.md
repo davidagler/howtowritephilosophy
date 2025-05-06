@@ -120,3 +120,13 @@ Here is an argument in support of the use of examples:
 In response to this rule, there is the claim that pictures and examples can mislead readers since they often oversimplify and are not as informative as written text. For example, compare various attempts to reproduce the shield of Achilles and compare it against Homer's description of it in [The Illiad](https://classics.mit.edu/Homer/iliad.18.xviii.html) (Bk XVIII):
 
 ![By The Penny Magazine of the Society for the Diffusion of Useful Knowledge(Life time: 1845) - Original publication: The Penny Magazine of the Society for the Diffusion of Useful Knowledge, Published in London by Charles Knight (1845)](imgs/shield_of_achilles.jpg)
+
+## Rule 6: Avoid Rhetorical Questions
+
+A "rhetorical question" is a sentence that takes the *form of a question* but is used for a reason other than soliciting an answer. Let's consider two examples.
+
+First, rhetorical questions can be used to insult people. Suppose Liz asks Tek the following: "are you stupid?" Liz is not asking Tek whether he is stupid nor is she expecting a "yes" or "no" answer to this question. Instead, Liz is *asserting* that Tek is stupid. 
+
+Second, rhetorical questions can be used to provoke thought or prompt discussion. Suppose Liz and Tek are the parents of Rob. Rob has a friend at school who only has a single parent. Liz says to Rob, "can you imagine what your life would be like without your father?" In this example, Liz is again not asking Rob whether it is possible for him to imagine life without Rob's father. Instead, Liz is *suggesting* that Rob try to imagine what his life would be like without his father.
+
+In general, the use of rhetorical questions should be avoided in academic writing. The reason for this is because it is an indirect form of expression. In the case where Liz asks Tek "are you stupid?", she is using a sentence that has the form of a question to express the sentence "you are stupid." A more direct way of expressing her view would be to utter the sentence "you are stupid."
