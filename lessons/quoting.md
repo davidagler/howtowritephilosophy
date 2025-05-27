@@ -12,7 +12,13 @@ It is my recommendation to keep things simple here. There may be a place for *Ga
 
 ## Long Quotations
 
-Typically, longer quotations (between 4 or more lines) and quotations that need particular emphasis should be formatted as block quotations. Unlike an inline quotation (a quotation that appears in the body of the text), a block quotation begins on a new line, are indented and (typically) do not make use of quotation marks. Here is an example:
+Typically, longer quotations (between 4 or more lines) and quotations that need particular emphasis should be formatted as block quotations. Unlike an inline quotation (a quotation that appears in the body of the text), a block quotation:
+
+1. begins on a new line
+1. is indented, and 
+1. typically, it does not make use of quotation marks
+
+Here is an example:
 
 > Philosophy ought to imitate the successful sciences in its methods, so far as to proceed only from tangible premises which can be subjected to careful scrutiny, and to trust rather to the multitude and variety of its arguments than to the conclusiveness of any one. Its reasoning should not form a chain which is no stronger than its weakest link, but a cable whose fibres may be ever so slender, provided they are sufficiently numerous and intimately connected. (Peirce 1992:29)
 

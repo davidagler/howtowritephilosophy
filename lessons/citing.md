@@ -72,6 +72,37 @@ If you are not going to use a citation style or bibliographic software, my advic
 ```
 (Author)(Date)(Title of Work)(Place of Publication):(Publisher)(Volume Number)(Issue)(page numbers)(URL).
 ```
+---
+
+## What to Cite
+
+You do not need to cite:
+
+1. Common knowledge, e.g. that water is H2O.
+2. Facts that are widely known within certain groups even though they are not widely known in general, e.g., Maxfield Parrish was an American painter.
+
+You do need to cite:
+
+1. Verbatim language belonging to an author or source, e.g., a quotation from a speech or book.
+1. Interpretations, assertions, or theories that can be tied to individuals (unless they are widely held)
+1. Information that is not widely accessible, e.g., an idea in an unpublished manuscript
+
+What about images or diagrams? For example, what if I'm writing a paper and I include the following image of a lion devouring some being?
+
+![The Repast of the Lion](imgs/repast_lion_rousseau.jpg)
+
+Yes, you should cite it just like you would cite a passage of text you are quoting . You should include:
+
+1. The Artist's Name
+1. The Title of the Artwork (typically italicized)
+1. The Date of Creation
+1. The Medium
+1. Its location
+1. URL if you taking it from an online source
+
+Here is an example:
+
+> Rousseau, Henri. c. 1907. *The Repast of the Lion*. Oil on Canvas. The Met Fifth Avenue. Oil on Canvas. URL: https://www.metmuseum.org/art/collection/search/438822
 
 ---
 
