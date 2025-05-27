@@ -8,16 +8,16 @@ Since many of our ideas (e.g., person, free will, beauty) are unclear, one goal 
 
 Practically speaking, how do we clarify an idea? There are several methods:
 
-1. Define the idea: Provide a definition of the idea.
-1. Reduce generality: choose a word with a narrower application
-1. Explicate or precisify via stipulation
-1. Give an example: Provide an example of the idea.
-1. Compare and Contrast: Highlight how the idea differs from other relevant or closely related ideas.
-1. Disambiguate: Articulate the different senses of the term and distinguish between them.
-1. Highlight misconceptions: Identify and correct misconceptions or contentious beliefs people have about the idea.
+1. [Define the idea](#define-the-idea): Provide a definition of the idea.
+1. [Reduce generality](#reduce-generality): choose a word with a narrower application
+1. [Precisify](#precisify)
+1. [Give an example](#give-an-example): Provide an example of the idea.
+1. [Compare and Contrast](#compare-and-contrast): Highlight how the idea differs from other relevant or closely related ideas.
+1. [Disambiguate](#disambiguate): Articulate the different senses of the term and distinguish between them.
+1. [Highlight misconceptions](#highlight-misconceptions): Identify and correct misconceptions or contentious beliefs people have about the idea.
 
 
-## Definition
+## Define the idea
 
 Let's consider each one of these. First, consider the concept of idea of "doubt". In order to gain greater clarity concerning this idea, one thing we can do is to define it. One type of definition is a *dictionary definition*. Consulting the dictionary, we might find that doubt is defined as follows:
 
@@ -41,11 +41,13 @@ I could say that Parrish uses a lot of *blue* in the painting. However, "blue" i
 
 In the above example, more precision is gained by selecting a word or phrase whose application is narrower than the more general word, e.g., Parrish blue vs. blue. Such a feat often involves knowing various things about the what we are talking about, e.g., knowing that different hues exist. 
 
-## Precisification
+## Precisify
 
-In some cases, our primary goal is not to articulate what people mean when they use the word. If that were the case, then a dictionary definition (along with analysis) would be sufficient. Instead, what we aim to do is to *explicate* or *precisify* an idea. 
+In some cases, our primary goal is not to articulate what people mean when they use the word. If that were the case, then a dictionary definition (along with analysis) would be sufficient. In addition, we cannot clarify our meaning via an increase of information or greater knowledge about what we mean or what we are talking about.
 
-Precision is gained not by an increase of information but by stipulation. In such cases, precision is not gained via an increase of information, e.g., the goal is *not* to get at what "the hidden meaning of a word" or what a language user means "deep down" by a word. Rather, it is an effort to fix problems or confusions with the existing meaning of the term by (1) keeping the essential function or meaning of the term but (2) replacing unclear or confusing aspects of the term with precise ones. Here is how Quine defines *explication*:
+Instead, more precision can be gained by *precisifying* the idea. In precisifying an idea, the goal is to fix problems or confusions with the existing meaning of the term by (1) keeping the essential function or meaning of the term but (2) replacing unclear or confusing aspects of the term with precise ones. In essence, we are making our ideas or words more precise by *adding* something to that idea.
+
+Here is how Quine defines *explication*:
 
 > "[When we explicate,] we do not claim synonymy. We do not claim to make clear and explicit what the users of the unclear expression had unconsciously in mind all along. We do not expose hidden meanings [...]; we supply lacks. We fix on the particular functions of the unclear expression that make it worth troubling about, and then devise a substitute, clear and couched in terms to our liking, that fills those functions." (Quine *Word and Object*: 258-9).
 
@@ -55,7 +57,7 @@ Here is another statement from Quine about explication:
 
 Let's illustrate explication through what is sometimes called *precisification* (we'll keep things non-technical). Consider that the vague term "tall" has unclear boundaries. While a 7'0 person is clearly tall and a 4'0 person is clearly not tall, the meaning and our use of the word "tall" does not pick out a precise cut-off height such that people who are that height are tall and people who are 1 inch shorter are not tall. This creates a problem for reasoning since "if a person 7'0 is tall, then a person 6'11 is also tall" (a small difference in height doesn't make a big enough difference in terms of whether or not someone is tall or not). But, if that is the case, then "if a person 6'11 is tall, then a person 6'10 is also tall" and so on to the absurd conclusion that a 4'0 person is tall. Vague terms throw a wrench in how we reason. One simple way to solve this problem is to make the term "tall" precise by drawing a sharp boundary between the tall and non-tall. In doing this, we are *precisifying* tall and thus fixing the problem where we reason to the conclusion that a 4'0 person is tall (although we may admit new problems!).
 
-## Use Examples
+## Give an Example
 
 One way to clarify an idea is by making it more precise. Another way is by making it more understandable. One way to make a complex idea more understandable is by using examples. 
 
