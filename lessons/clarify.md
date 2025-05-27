@@ -61,7 +61,7 @@ Let's illustrate explication through what is sometimes called *precisification* 
 
 One way to clarify an idea is by making it more precise. Another way is by making it more understandable. One way to make a complex idea more understandable is by using examples. 
 
-Suppose again I am describing the painting *Ecstasy* (1929) by American painter Maxfield Parrish (see [this section](##reduce-generality) for the image). I want to say that a particular hue of blue makes this painting vibrant. Of course, I could be more precise by describing the chemical formulation of Cobalt blue pigment (Al<sub>2</sub>CoO<sub>4</sub>), but I could make the claim that this blue creates vibrancy by giving examples of other artworks that are "vibrant" and that use the same hue, e.g., this 15th century Ming dynasty jar:
+Suppose again I am describing the painting *Ecstasy* (1929) by American painter Maxfield Parrish (see [this section](#reduce-generality) for the image). I want to say that a particular hue of blue makes this painting vibrant. Of course, I could be more precise by describing the chemical formulation of Cobalt blue pigment (Al<sub>2</sub>CoO<sub>4</sub>), but I could make the claim that this blue creates vibrancy by giving examples of other artworks that are "vibrant" and that use the same hue, e.g., this 15th century Ming dynasty jar:
 
 ![Ming dynasty jar - Public Domain](imgs/ming_dynasty_urn.jpg)
 
@@ -73,7 +73,7 @@ Here is another example. Suppose again that we wish to clarify what it means to 
 
 Another way to clarify an idea is to highlight how the idea differs from other relevant or closely-related ideas. 
 
-Suppose again I am describing the painting *Ecstasy* (1929) by American painter Maxfield Parrish (see [this section](##reduce-generality)). I could clarify Parrish blue by contrasting it against other blue hues.
+Suppose again I am describing the painting *Ecstasy* (1929) by American painter Maxfield Parrish (see [this section](#reduce-generality)). I could clarify Parrish blue by contrasting it against other blue hues.
 
 Similarly, with the idea of doubt, I could contrast it against several related ideas as follows: 
 
