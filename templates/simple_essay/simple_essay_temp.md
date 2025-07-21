@@ -1,8 +1,11 @@
-David W. Agler  
-Class or Assignment Name  
-Date Submitted
-
-# Paper Title: A Great Simple Essay
+---
+author: Student McStudentFace
+title: My Super Awesome Essay
+assignment_type: simple
+date: 3/20/25
+course: Metaphysics
+instructor: David W. Agler
+---
 
 ## Section 1. Introduction
 

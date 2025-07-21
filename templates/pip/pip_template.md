@@ -1,8 +1,11 @@
-David W. Agler  
-Class or Assignment Name  
-Date Submitted
-
-# Paper Title: PIP
+---
+author: Student McStudentFace
+title: My Super Awesome Essay
+assignment_type: pip
+date: 3/20/25
+course: Metaphysics
+instructor: David W. Agler
+---
 
 ## Section 1. Passage and Explanation
 
@@ -15,7 +18,6 @@ Next, I will explain the above passage. This passage makes two key claims. First
 ## Section 2. Example
 
 To illustrate my explanation above, it is helpful to think of the following example . . . .
-
 
 ## References
 

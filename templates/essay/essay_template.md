@@ -1,8 +1,11 @@
-David W. Agler  
-Class or Assignment Name  
-Date Submitted
-
-# Paper Title
+---
+author: Student McStudentFace
+title: My Super Awesome Essay
+assignment_type: essay
+date: 3/20/25
+course: Metaphysics
+instructor: David W. Agler
+---
 
 ## Section 1. Introduction
 
@@ -10,11 +13,11 @@ Explain the topic of your paper, note your principal goals/aims/theses, and stat
 
 ## Section 2. Analysis of a problem
 
-Begin by indicating what this section plans to do. In this section, we will analyze a problem or a debate. Introduce the relevant terms, concepts, ideas, history, or positions. 
+Begin by indicating what this section plans to do. In this section, we will analyze a problem or a debate. Introduce the relevant terms, concepts, ideas, history, or positions.
 
 ## Section 3. A previous solution
 
-Again, begin by indicating what this section plans to do. Now that the problem or debate has been clarified, explain a previous attempt at solving this problem. 
+Again, begin by indicating what this section plans to do. Now that the problem or debate has been clarified, explain a previous attempt at solving this problem.
 
 ## Section 4. A better solution
 

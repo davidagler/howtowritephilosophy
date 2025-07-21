@@ -1,8 +1,11 @@
-David W. Agler  
-Class or Assignment Name  
-Date Submitted
-
-# Paper Title: A Developmental Essay
+---
+author: Student McStudentFace
+title: My Super Awesome Essay
+assignment_type: developmental
+date: 3/20/25
+course: Metaphysics
+instructor: David W. Agler
+---
 
 ## Section 1. Introduction
 
@@ -40,7 +43,7 @@ There are at least two responses to this criticism. First, ... Second, ...
 
 ## Section 5. Conclusion
 
-In this paper, I have shown that there is a powerful argument in support of Z. 
+In this paper, I have shown that there is a powerful argument in support of Z.
 
 ## References
 

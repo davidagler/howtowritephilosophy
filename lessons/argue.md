@@ -4,47 +4,99 @@ This tutorial focuses on how to present philosophical arguments in the context o
 
 ## Two Ways to Present Your Argument
 
-There are two main ways to present your argument. Let's call the first an *in-text argument* and the second in *argument standard form* (or *standard form*). In the case of an in-text argument, you simply write the argument in the body of the paragraph. You can do this by simply writing your conclusion and any premises that support that conclusion. 
+There are two main ways to present your argument. Let's call the first an *in-text argument* and the second in *argument standard form* (or *standard form*).
 
-> Many people fear death but my claim is that death is not bad. Consider that it is not bad for us that there was a previous time where we did not exist (call this our "pre-vital nonexistence"). Our pre-vital nonexistence is just like our posthumous nonexistence (our state after we die) in all relevant respects.​ If two things are alike in all relevant respects and if one is not bad for us, the other is not bad for us.​ Therefore, our posthumous nonexistence (our state after we die) is not bad.
+## In-text arguments
 
-In the above passage, the argument is presented by starting with its conclusion, supplying reasons in support of said conclusion, and finishing with a restated version of the conclusion. 
+ In the case of an in-text argument, you simply write the argument in the body of the paragraph. At minimum, an in-text argument will include a conclusion and a premise (or reason). 
 
-![alt text](imgs/lucretius.png)
+Let's consider a very simple example:
 
-The second way of presenting your argument is in some version of what is known as "argument standard form". In argument standard form, you present your argument by first indenting from the body of the text and then listing and labeling the propositions of your argument. The premises of your argument are labeled as P1, P2, P3, and so on, while your conclusion is labeled as C. If we were to restate a version of the above argument in argument standard form, then it would be presented as follows:
+> God exists. Yesterday, I prayed for a way to pay my rent. And, today my landlord said he would give me another week to pay my rent.
 
-- P1: It is not bad for us that there was a previous time where we did not exist (call this our "pre-vital nonexistence").
-- P2: Our pre-vital nonexistence is just like our posthumous nonexistence (our state after we die) in all relevant respects.​ 
-- P3: If two things are alike in all relevant respects and one of them is not bad for us, the other is not bad for us.​ 
-- C: Therefore, our posthumous nonexistence (our state after we die) -- being dead -- is not bad.
+In the above paragraph, there is the conclusion ("God exists") and a premise (reason) in support of that conclusion. The premise in the above argument is something like "there is observational evidence of God's existence through the answering of prayers."
 
-One presents an argument in argument standard form rather than in the text for several different reasons. First, by labeling the propositions of the argument (P1, P2, etc.), the parts of the argument are easier to refer to. For example, suppose we have just put forward an argument in standard form. One common practice after presenting the argument is to *explain or justify the premises*. In doing this, we will need to refer back to each of the premises. So, for example, we might write as follows:
+Let's consider a more complex example from Lucretius:
 
-> "Premise "P1" says that we did not exist during the time before our birth. Intuitively, we do not regard this period of nonexistence as a bad thing. If Tek was born in 1982, he does not take it to be a bad thing that he did not exist in 1753."
+![Lucretius Argument](imgs/lucretius.png)
+<details>
+    <summary>Argument text</summary>
+    <p>"Look back at the eternity that passed before we were born, and mark how utterly it counts us as nothing. This is a mirror that Nature holds up to us, in which we may see the time that shall be after we are dead.</p>
+</details>
 
-In the above passage, having the label "P1" makes it easier to refer back to this specific part of the argument. The use of labels also criticism of arguments clear. For example, if I were to argue that the above argument is bad, I could make it clear which part of the argument is flawed, e.g., I could say "the above argument is flawed because P1 is false." 
+While more difficult to identify, the above argument contains a conclusion and a few premises. The conclusion is that we are nothing after we die. The premises are (1) we were nothing before we were born and (2) our nonexistence before we are born is  like our nonexistence after we die in all relevant respects when it comes to nature.
 
-Second, some people find reading arguments that are put in standard form easier. One reason for this is that since the argument requires labeling premises and the conclusion, the reader need not guess which of the propositions are premises (reasons) and which proposition is the conclusion.
+My general recommendation is to present your argument as an in-text argument when
 
-Third, another popular reason for putting arguments in standard form is one plans on altering the argument by supplying missing premises, arguments for premises, or modifying certain propositions in the argument. To illustrate, our earlier argument aimed to show that death (posthumous nonexistence) is not bad. Suppose we wished to *extend* this argument by using this conclusion as a premise (or as an intermediate conclusion: "IC") for the argument that there is no reason to fear death. We might extend our above argument as follows:
+1. Your argument is easy to understand.
+1. The premises and conclusion are easy to spot.
+1. You don't need to refer to specific parts of your argument later.
 
-- IC: Therefore, our posthumous nonexistence is not bad (from previous argument)
-- P4: There is only a rational reason to fear the outcome of an event if that event has a bad effect.​
-- P5: The effect of the event of death is posthumous nonexistence.​
-- C: Since posthumous nonexistence is not bad (IC), there is no rational reason to fear the outcome of the event of death (see P4 and P5)
+### Argument Standard Form
 
-Presenting our argument in standard form thus allows the author to make clear that they are extending the previous argument.  
+The second way of presenting your argument is in some version of what is known as "argument standard form". In argument standard form, you present your argument by first indenting from the body of the text and then listing and labeling the propositions of your argument. The premises of your argument are labeled as P1, P2, P3, and so on, while your conclusion is labeled as C. 
 
-Next, suppose someone has raised the following criticism of our argument: "P5 is potentially false if there is a heaven or hell". Rather than providing an argument concerning the reality of life after death, we only wish to modify the scope of P5. Rather than present the entire argument again with one modified premises, we might instead indicate this modification as follows (modifying the label "P5 " as "P5\*"): 
+Here is a simple example:
 
-- P5\*: Assuming there is no afterlife (heaven, hell), the effect of the event of death is posthumous nonexistence.
+- P1: Prayers are answered by God.
+- C: Therefore, God exists.
 
-Finally, let's assume that we wanted to provide an argument for P5 rather than modifying it as P5\*. One way we could do this is by providing a subargument. To do this, we might use P5 as our conclusion and supply premises for P5 in the form P5.1, P5.2, and so on. Here is an example:
+The above argument contains a single premise (labeled 'P1') and a conclusion (labeled 'C'). 
 
-- P5.1: The only two possible effects after death are life after death or nonexistence.
-- P5.2: There is no life after death.
-- P5: The effect of the event of death is posthumous nonexistence.
+Next, consider a more complex argument. 
+
+- P1: There was a time (before our birth) where we did not exist (our "pre-vital nonexistence").
+- P2: There will be a time (after our death) where we will not exist (our posthumous nonexistence)
+- P3: Our prevital and posthumous nonexistence are alike in all relevant respects.​ 
+- P4: If our prevital nonexistence isn't bad, then our postvital nonexistence isn't bad.
+- C: Therefore, our nonexistence after we die is not bad for us.
+
+Notice that the above argument contains a conclusion ('C') and contains four premises ('P1', 'P2', and so on). 
+
+There are three additional features of argument standard form worth mentioning. First, some arguments are complex and involve "intermediate conclusions". This is a conclusion that also serves as a premise in the argument. Here is an example:
+
+- P1: I prayed for my rent to be paid.
+- P2: My rent was paid.
+- IC: Therefore, my prayer was answered.
+- C: Therefore, God exists.
+
+In the above example, "IC" is the intermediate conclusion. It follows from P1 and P2 but is used to support C.
+
+Second, one might wish to modify a premise in an argument but keep the original statement of the argument. For example, suppose you put forward the following argument:
+
+- P1: Everyone believes in God.
+- C: Therefore, God exists.
+
+Someone then points out that P1 is false. In response, you plan on modifying your argument. To do this, you can copy and paste the argument, but modify P1, noting that P1 is modified by adding an asterisk:
+
+- P1*: Most people believe in God.
+- C: Therefore, God exists.
+
+Now it is clear that P1* is a modification of the original P1. 
+
+Third, in some cases, someone may ask you to provide an argument for your premise. For example, consider the following argument that supports P1*:
+
+- P1.1: A 2022 Gallup poll found 81% of people in the U.S. believe in God.
+- P1.2: Of the 19% who say they don't believe in God, a portion of these people believe in a "higher power".
+- P1: Most people believe in God.
+
+Notice that in the above argument, the conclusion is P1, which serves as a premise in an earlier argument.
+
+
+### Strengths of Standard Form
+
+There are several benefits to presenting an argument in standard form.
+
+First, if we needed to explain, justify, or criticize one of these premises, we can refer back to it without having to rewrite it or refer to it in a fuzzy way. For example, if someone asked us to clarify P1, we could write the following:
+
+> "Premise "P1" says for any person, there was a time before their birth. The person's state of being before their birth is called their "prevital nonexistence". For example, suppose Tek was born in 2000. In 1990 he does not exist but we can refer to his state of being as his prevital nonexistence.
+
+Second, arguments in standard form tend to be more explicit about which propositions in the argument are premises (reasons) and which are the conclusion. This is beneficial since readers do not have to guess (1) how many premises the argument contains or (2) which propositions are your reasons and which is the conclusion.
+
+Third, putting arguments in standard form is also beneficial for the initial development of an argument. Since the premise-conclusion of the argument is made explicit, some people will better realize that (1) they do not have clear reasons for their conclusion or (2) their reasons are just a restatement of their conclusion. For example, the conclusion in the argument below is just a restatement of the premise:
+
+- P1: I think there is strong evidence that God exists.
+- C: Therefore, there is good reason for believing in God.
 
 ## Video Resources
 

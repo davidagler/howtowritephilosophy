@@ -1,8 +1,11 @@
-David W. Agler  
-Class or Assignment Name  
-Date Submitted
-
-# Paper Title: A Great Essay
+---
+author: Student McStudentFace
+title: My Super Awesome Essay Proposal
+assignment_type: essay_proposal
+date: 3/20/25
+course: Metaphysics
+instructor: David W. Agler
+---
 
 ## Paper topic - Described
 
@@ -18,7 +21,7 @@ I will focus my attention on the first 5 pages of this paper.
 
 Quine says that reducing a formula to its simplest equivalent formula is easy. He writes
 
->  "Given any formula, we can, in principle, survey the totality of simpler formulas involving no additional letters; for this totality is finite. By truth tables or otherwise, we can test each of these simpler formulas for equivalence to the given formula, and thus pick out the simplest equivalent" (Quine 1952:522).
+> "Given any formula, we can, in principle, survey the totality of simpler formulas involving no additional letters; for this totality is finite. By truth tables or otherwise, we can test each of these simpler formulas for equivalence to the given formula, and thus pick out the simplest equivalent" (Quine 1952:522).
 
 ## List of sources to be used
 
@@ -30,6 +33,3 @@ I will use the following sources when writing my paper:
 1. McCluskey, Edward Joseph Jr. 1956. “Minimization of Boolean Functions.” Bell System Technical Journal 35 (6): 1417–44.
 1. Quine, W. V. 1952. “The Problem of Simplifying Truth Functions.” The American Mathematical Monthly 59 (8): 521–31.
 1. Quine, W. V.  1955. “A Way to Simplify Truth Functions.” The American Mathematical Monthly 62 (9): 627–31.
-
-
-
