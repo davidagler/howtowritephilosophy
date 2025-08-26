@@ -2,27 +2,36 @@
 
 When you quote someone, you supply what a person said or wrote exactly as they said / wrote it. Let's consider [how to introduce quotations](#introducing-your-quotations), [how to work with longer quotations](#long-quotations), and then discuss [why you would quote](#why-quote).
 
-## Introducing Your Quotations 
+## Introducing Your Quotations
 
-In introducing quotations, you will want to avoid a repetitive use of 'says', e.g. (X says A, while Y says B). This does not tend to be very informative and can be stylistically off-putting. Instead, diversify the introduction of quotations when appropriate, e.g. (X *objects* that 'A', but Y *replies* that 'X'). Here are a few introductions commonly used in discourse.
+Generally, you want to signal to your reader that you are going to quote. One way to do this is to use the following form:
+
+> Galileo says "And yet it moves".
+
+This looks great. We know what was said and who said it. However, in introducing quotations, you want to avoid a repetitive use of 'says', e.g. (X says A, while Y says B). Repeatedly using "says" to introduce your quotations can be stylistically off-putting. Instead, diversify the introduction of quotations when appropriate, e.g. (X *objects* that 'A', but Y *replies* that 'X'). Here are a few introductions commonly used in discourse.
 
 > writes, adds, argues, claims, observes, replies, notes, remarks, comments, objects, asserts, attests
 
-It is my recommendation to keep things simple here. There may be a place for *Galileo put to paper "..."* or *Galileo put in black and white "..."* but these strike me as both odd and wordy.
+While you want to avoid repetitious use of "says", you should generally try to keep things simple. Consider the following:
+
+- *Galileo put to paper "and yet it moves."*, or
+- *Galileo put in black and white "and yet it moves."*
+
+The above are accurate but will strike many people as odd and wordy.
 
 ## Long Quotations
 
 Typically, longer quotations (between 4 or more lines) and quotations that need particular emphasis should be formatted as block quotations. Unlike an inline quotation (a quotation that appears in the body of the text), a block quotation:
 
 1. begins on a new line
-1. is indented, and 
+1. is indented, and
 1. typically, it does not make use of quotation marks
 
 Here is an example:
 
 > Philosophy ought to imitate the successful sciences in its methods, so far as to proceed only from tangible premises which can be subjected to careful scrutiny, and to trust rather to the multitude and variety of its arguments than to the conclusiveness of any one. Its reasoning should not form a chain which is no stronger than its weakest link, but a cable whose fibres may be ever so slender, provided they are sufficiently numerous and intimately connected. (Peirce 1992:29)
 
-Occasionally, it is desirable to omit part of the block quotation. When this occurs, make use of ellipses (three lower dots: ...) to indicate that text has been removed. For example, we might want to shorten the above quote by not including part of the first sentence. We can do this using square braces containing an elipsis. 
+Occasionally, it is desirable to omit part of the block quotation. When this occurs, make use of ellipses (three lower dots: ...) to indicate that text has been removed. For example, we might want to shorten the above quote by not including part of the first sentence. We can do this using square braces containing an elipsis.
 
 > Philosophy ought to imitate the successful sciences in its methods, \[\...\] and to trust rather to the multitude and variety of its arguments than to the conclusiveness of any one. Its reasoning should not form a chain which is no stronger than its weakest link, but a cable whose fibres may be ever so slender, provided they are sufficiently numerous and intimately connected (Peirce 1992:29).
 
@@ -38,7 +47,7 @@ However, there are some exceptions to the above rule. You might consider quoting
 1. How they person expressed some idea (their wording) is memorable.
 1. The person expressed themselves in such a way that any attempt to paraphrase would distort what they meant (or lessen the impact of what they are saying).
 1. The person makes a point that you (1) agree with and so quoting them provides another way of expressing what you have been expressing or (2) diagree with and so quoting them provides another way of expressing a position that you have been articulating and criticizing.
-1. There is some dispute about the person meant by what they said and so paraphrasing might invite some disagreement 
+1. There is some dispute about the person meant by what they said and so paraphrasing might invite some disagreement
 1. Part of your analysis involves the words they used rather than the ideas they conveyed
 1. What someone said is very complex (or fruitful) and so you want to quote it in its entirety because you plan on further clarifying (or unpacking) what they said
 1. When part of what someone said has been taken out of context (or they are being quoted incorrectly) and it is necessary to provide the entirety of what they said to provide that context.
@@ -47,7 +56,7 @@ Let's consider a few of the reasons above. In doing this, let's use the followin
 
 > Philosophy ought to imitate the successful sciences in its methods, so far as to proceed only from tangible premises which can be subjected to careful scrutiny, and to trust rather to the multitude and variety of its arguments than to the conclusiveness of any one. Its reasoning should not form a chain which is no stronger than its weakest link, but a cable whose fibres may be ever so slender, provided they are sufficiently numerous and intimately connected. (Peirce 1992:29)
 
-First, we might want to quote someone to provide evidence that they hold a position. Suppose I want to argue that Peirce thought that the method of philosophy should not be more like the sciences in that it takes an experimental approach. I might argue for this claim by using part of the first line of the above passage: 
+First, we might want to quote someone to provide evidence that they hold a position. Suppose I want to argue that Peirce thought that the method of philosophy should not be more like the sciences in that it takes an experimental approach. I might argue for this claim by using part of the first line of the above passage:
 
 ```text
 Peirce (1992:29) wrote that "philosophy ought to imitate the successful sciences in its methods."
@@ -62,6 +71,3 @@ Third, suppose an author holds the same position that Peirce does. The author, h
 Fourth, suppose that many authors in the past have interpreted what Peirce means by this passage in different ways. They have offered paraphrases but these paraphrases are inconsistent. In order to resolve this inconsistency, I might quote the entire passage because I think paying attention to the words that Peirce uses in it is important for determining what he meant.
 
 Fifth, suppose I want to take the ideas expressed in Peirce's quotation and connect them to other ideas. For example, Peirce does not say who he is talking about in the above passage when he talks about those whose reasoning is like a chain. I might wish to quote the entire passage above because I plan on referring back to it when I cite various examples of people whose reasoning is like a chain.
-
-
-
