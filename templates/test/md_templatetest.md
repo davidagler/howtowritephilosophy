@@ -2,7 +2,7 @@
 author: Student McStudentFace
 title: My Super Awesome Essay
 assignment_type: testfile
-date: 3/20/25
+date: 2025-08-26
 course: Metaphysics
 instructor: David W. Agler
 ---
@@ -13,7 +13,7 @@ Modify the YAML header as follows:
 
 1. Replacing the value of the `author` with your name .
 1. Replace the value of the `title` with the following title `Template Test`.
-1. Change the date to 3/14/27
+1. Change the date to 2027-08-25
 
 ## Emphasize text
 

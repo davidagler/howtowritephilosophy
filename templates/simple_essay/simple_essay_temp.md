@@ -2,7 +2,7 @@
 author: Student McStudentFace
 title: My Super Awesome Essay
 assignment_type: simple
-date: 3/20/25
+date: 2025-08-26
 course: Metaphysics
 instructor: David W. Agler
 ---
