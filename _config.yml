@@ -14,6 +14,7 @@ titles_from_headings:
   collections: true
 author: 
   name: "David W. Agler"
+date: 2025-08-26
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
