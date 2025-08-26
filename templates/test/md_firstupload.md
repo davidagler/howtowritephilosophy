@@ -1,7 +1,7 @@
 ---
 author: Student McStudentFace
 title: My First Markdown Upload
-date: /today
+date: 2025-08-26
 course: Metaphysics
 instructor: David W. Agler
 ---
