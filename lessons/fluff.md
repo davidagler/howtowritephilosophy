@@ -5,9 +5,9 @@ A general guide to composition is to "be concise". What does that mean? We can b
 1. omit any words or phrases while preserving our meaning
 1. rewrite sentences while preserving our meaning
 
-# Omitting Words
+## Omitting Words
 
-With respect to (1), Alexander Bain wrote that if we are following the principle of "attaining ends at the smallest costs, it is a virtue of language to be brief" (p.27). More concisely, William Shrunk Jr. (1918) says to "omit needless words": 
+With respect to (1), Alexander Bain wrote that if we are following the principle of "attaining ends at the smallest costs, it is a virtue of language to be brief" (p.27). More concisely, William Shrunk Jr. (1918) says to "omit needless words":
 
 > "A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts." (p.21)
 
@@ -40,7 +40,7 @@ Try to simplify the following sentences:
 1. The idea fades and vanishes
 1. I was stocked and astonished to hear
 
-# Rewriting sentences
+## Rewriting sentences
 
 Rather than removing words, another way to remove fluff is to rewrite the sentence. Our discussion of how to simplify sentences *by rewriting the sentence* will be guided by a rule that we will call the "Master Rule":
 
@@ -55,9 +55,9 @@ If we mean to say that Tek intentionally disregarded Liz, we can rewrite this se
 
 - "Tek *ignored* Liz."
 
-But what about if Tek's disregard of Liz is unintentional? For example, 
+But what about if Tek's disregard of Liz is unintentional? For example,
 
-- "Tek did not pay attention to Liz". 
+- "Tek did not pay attention to Liz".
 - "Tek took no notice of Liz."
 
 The above sentences may be rewritten as follows:
@@ -68,7 +68,7 @@ Consider scenarios in which the Master Rule might be applied. One common scenari
 
 > *Rule 1.1:* Check whether there is a single word that captures the meaning of a negative phrase (phrases where something is denied of something else).
 
-Consider the following example: 
+Consider the following example:
 
 - "Tek *did not have confidence in* his abilities."
 
@@ -76,7 +76,7 @@ The negative phrase in the sentence above may be replaced as follows:
 
 - "Tek *distrusted* his abilities."
 
-Another example: 
+Another example:
 
 - "Tek *was not paying attention* during the lesson."
 
@@ -111,11 +111,7 @@ The second piece of fluff is the use of "seems". First, Tek was tasked with  sho
 
 > "Therefore, ~~from my point of view,~~ theory T ~~seems like it~~ is true."
 
-
-
-# References
+## References
 
 1. Strunk Jr., William. 1918. The Elements of Style. Ithaca, NY: Privately Printed.
 1. Bain, Alexander. 1887. English Composition and Rhetoric. Enlarged Edition. New York: D. Appleton and Company.
-
-

@@ -2,7 +2,7 @@
 
 Unclear language is said to die as soon as it is spoken since it fails to be understood by those that hear it.
 
-Since many of our ideas (e.g., person, free will, beauty) are unclear, one goal of writing is to clarify the language we use. In clarifying an idea, we generally try to (1) make the idea more understandable or (2) make it more precise (or both). 
+Since many of our ideas (e.g., person, free will, beauty) are unclear, one goal of writing is to clarify the language we use. In clarifying an idea, we generally try to (1) make the idea more understandable or (2) make it more precise (or both).
 
 ## Methods of Clarification
 
@@ -15,7 +15,6 @@ Practically speaking, how do we clarify an idea? There are several methods:
 1. [Compare and Contrast](#compare-and-contrast): Highlight how the idea differs from other relevant or closely related ideas.
 1. [Disambiguate](#disambiguate): Articulate the different senses of the term and distinguish between them.
 1. [Highlight misconceptions](#highlight-misconceptions): Identify and correct misconceptions or contentious beliefs people have about the idea.
-
 
 ## Define the idea
 
@@ -39,7 +38,7 @@ In some cases, we can make our writing more precise by being less general. We ca
 
 I could say that Parrish uses a lot of *blue* in the painting. However, "blue" is a general term: it could refer to navy blue, royal blue, neon blue, etc. What I could say is that Parrish's painting was a particular hue of blue (Cobalt blue or "Parrish blue") that is more vibrant than other blues.
 
-In the above example, more precision is gained by selecting a word or phrase whose application is narrower than the more general word, e.g., Parrish blue vs. blue. Such a feat often involves knowing various things about the what we are talking about, e.g., knowing that different hues exist. 
+In the above example, more precision is gained by selecting a word or phrase whose application is narrower than the more general word, e.g., Parrish blue vs. blue. Such a feat often involves knowing various things about the what we are talking about, e.g., knowing that different hues exist.
 
 ## Precisify
 
@@ -59,23 +58,23 @@ Let's illustrate explication through what is sometimes called *precisification* 
 
 ## Give an Example
 
-One way to clarify an idea is by making it more precise. Another way is by making it more understandable. One way to make a complex idea more understandable is by using examples. 
+One way to clarify an idea is by making it more precise. Another way is by making it more understandable. One way to make a complex idea more understandable is by using examples.
 
 Suppose again I am describing the painting *Ecstasy* (1929) by American painter Maxfield Parrish (see [this section](#reduce-generality) for the image). I want to say that a particular hue of blue makes this painting vibrant. Of course, I could be more precise by describing the chemical formulation of Cobalt blue pigment (Al<sub>2</sub>CoO<sub>4</sub>), but I could make the claim that this blue creates vibrancy by giving examples of other artworks that are "vibrant" and that use the same hue, e.g., this 15th century Ming dynasty jar:
 
 ![Ming dynasty jar - Public Domain](imgs/ming_dynasty_urn.jpg)
 
-Here is another example. Suppose again that we wish to clarify what it means to "doubt" a proposition P. One way to do this is to give examples where a person doubts P and where the person does not doubt P. 
+Here is another example. Suppose again that we wish to clarify what it means to "doubt" a proposition P. One way to do this is to give examples where a person doubts P and where the person does not doubt P.
 
-> Suppose Liz doubts whether Tek is nice. If this is the case, then Liz has a feeling where she does not know whether Tek is nice and does not have a firm belief concerning whether Tek is nice. 
+> Suppose Liz doubts whether Tek is nice. If this is the case, then Liz has a feeling where she does not know whether Tek is nice and does not have a firm belief concerning whether Tek is nice.
 
-## Compare and Contrast 
+## Compare and Contrast
 
-Another way to clarify an idea is to highlight how the idea differs from other relevant or closely-related ideas. 
+Another way to clarify an idea is to highlight how the idea differs from other relevant or closely-related ideas.
 
 Suppose again I am describing the painting *Ecstasy* (1929) by American painter Maxfield Parrish (see [this section](#reduce-generality)). I could clarify Parrish blue by contrasting it against other blue hues.
 
-Similarly, with the idea of doubt, I could contrast it against several related ideas as follows: 
+Similarly, with the idea of doubt, I could contrast it against several related ideas as follows:
 
 > Doubt can be contrasted against belief or knowing. If a person believes a proposition, then they do not feel uncertain about that proposition. With respect to the feeling of conviction, a person in a state of doubt lacks conviction, but a person in a state of belief may or may not have conviction with respect to that belief.
 
@@ -87,11 +86,11 @@ In the above example, *doubt* is contrasted against the related ideas of *belief
 
 Another way to clarifying an idea is to disambiguate the idea. To illustrate, let's consider two different senses of the term "doubt":
 
->  There are at least two different kinds of doubt. The first kind of doubt, we might call "emotional doubt". This is where you feel uncertain about something but still act as though it is true. In contrast, there is emotional and active doubt. This is where you feel uncertain about something but act in a way that is consistent with your uncertainty about its truth. To illustrate, I may feel uncertain whether a glass floor in a large building will support my weight even though I have been assured by a team of engineers who are currently standing on the floor. If I nervously walk across the floor, I feel uncertain but I act in a way that is consistent with me believing it will support my weight. In this case, my doubt is theoretical. 
+> There are at least two different kinds of doubt. The first kind of doubt, we might call "emotional doubt". This is where you feel uncertain about something but still act as though it is true. In contrast, there is emotional and active doubt. This is where you feel uncertain about something but act in a way that is consistent with your uncertainty about its truth. To illustrate, I may feel uncertain whether a glass floor in a large building will support my weight even though I have been assured by a team of engineers who are currently standing on the floor. If I nervously walk across the floor, I feel uncertain but I act in a way that is consistent with me believing it will support my weight. In this case, my doubt is theoretical.
 
 ## Highlight misconceptions
 
-It can also be helpful to highlight common misconceptions people about certain ideas (or aspects of the idea that are controversial). Specifying these misconceptions may be helpful since even after you have separated two different meanings of a term, people may backslide into treating the term in an ambiguous way. 
+It can also be helpful to highlight common misconceptions people about certain ideas (or aspects of the idea that are controversial). Specifying these misconceptions may be helpful since even after you have separated two different meanings of a term, people may backslide into treating the term in an ambiguous way.
 
 A common example involves the use of the words "wrong" or "bad". Some people talk as though what is legally bad (against the law) is the same as what is morally bad (evil). After you distinguish these two senses, people tend to accept that there are two different senses. However, they will later return to using them synonymously. Drawing attention to the fact that people incorrectly (or controversially) talk as though they believe "X is morally bad if and only illegal" may help to free them from this confusion.
 
