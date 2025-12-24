@@ -15,14 +15,21 @@ Here is the order in which the lessons are intended to be completed:
 1. [Removing Fluff](/lessons/fluff.md)
 1. [Write an Essay with a Template](/lessons/templates.md)
 
-## Assignments
+## Short Assignments
+
+1. [Citing and Quoting](/assignments/citingandquoting.md)
+1. Clarifying an Idea - TBA
+1. Metadiscourse - TBA
+1. Presenting an Argument - TBA
+1. Improving style - TBA
+
+## Paper Assignments
 
 1. [Passage Interpretation Paper (PIP)](/assignments/pip.md)
 1. [Simple Essay](/assignments/simple_essay.md)
 1. [Developmental Paper](/assignments/development_essay.md)
 1. [Secondary Source Summary (SSS)](/assignments/sss.md)
 1. [Essay Proposal](/assignments/ep.md)
-1. Argumentative Essay - TBA
 
 ## Templates
 
