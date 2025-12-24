@@ -1,6 +1,6 @@
 # How to Write Philosophy Papers
 
-Some basic writing-related instruction for students who take my writing-intensive philosophy courses. It includes instruction on basic [skills](#skills) (e.g., using metadisource, arguing, etc.), [templates](#templates) for writing certain kinds of philosophy essays, and writing [assignments](#assignments).
+The following provides some basic writing-related instruction for students who take my writing-intensive philosophy courses. It includes instruction on basic [skills](#skills) (e.g., using metadisource, arguing, etc.), [simple writing assignments](#short-assignments) for testing writing skills, [templates](#templates) for writing certain kinds of philosophy essays, and full-length [paper assignments](#paper-assignments).
 
 ## Skills
 
@@ -38,4 +38,3 @@ You can find template files in the [templates](https://github.com/davidagler/how
 ## For Instructors
 
 For testing purposes, I use quizzes in an LMS by converting plaintext questions into QTI using the invaluable [text2qti](https://github.com/gpoore/text2qti). If you want the questions, contact me!
-

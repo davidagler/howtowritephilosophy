@@ -14,5 +14,5 @@ In this assignment you are asked to take two large quotations, turn them into bl
 
 ## Further Resources
 
-1. [Citing](/lessons/citing.md)
-1. [Quoting](/lessons/quoting.md)
+1. [Citing](../lessons/citing.md)
+1. [Quoting](../lessons/quoting.md)
