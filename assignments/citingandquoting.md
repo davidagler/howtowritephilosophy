@@ -4,7 +4,7 @@ In this assignment you are asked to take two large quotations, turn them into bl
 
 ## Step-by-step instructions
 
-1. Download the template [citing and quoting](https://github.com/davidagler/howtowritephilosophy/tree/main/templates) from the templates folder.
+1. Download the template [citing and quoting](../templates/citingandquoting/citingquoting_template.md) from the templates folder.
 2. Take the quotes in the template and turn them into blockquotes.
 3. Supply both quotes an in-text citation using the format `(Author Date: Page)`.
 4. Add a reference citation in the *References* section.

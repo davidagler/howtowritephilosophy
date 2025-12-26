@@ -58,15 +58,30 @@ Let's illustrate explication through what is sometimes called *precisification* 
 
 ## Give an Example
 
-One way to clarify an idea is by making it more precise. Another way is by making it more understandable. One way to make a complex idea more understandable is by using examples.
+One way to clarify an idea is by making it more precise. Another way is by making it more vivid and understandable. One way to do this is through pictures, diagrams, and examples.
 
-Suppose again I am describing the painting *Ecstasy* (1929) by American painter Maxfield Parrish (see [this section](#reduce-generality) for the image). I want to say that a particular hue of blue makes this painting vibrant. Of course, I could be more precise by describing the chemical formulation of Cobalt blue pigment (Al<sub>2</sub>CoO<sub>4</sub>), but I could make the claim that this blue creates vibrancy by giving examples of other artworks that are "vibrant" and that use the same hue, e.g., this 15th century Ming dynasty jar:
+You have probably heard the expression "a picture is worth a thousand words." This is true for several reasons. First, pictures can be a more *efficient* way of communicating information than words. Suppose Tek wishes to tell Liz what his friend Jon looks like. He *could* describe Jon to her, but this would be a somewhat lengthy process. On the other hand, a picture of Jon almost instantly conveys his appearance.
+
+Second, in some cases, it is *easier* to convey information through the use a picture. This can occur for several reasons but one of them is that sometimes we feel as though there are aspects of the situation or the object that we are describing that we (at least at this moment in time) *cannot* describe. This could be because the object is too complex or because we lack the descriptive skills to describe the object. Consider our earlier example where Tek is attempting to describe Jon to Liz. Tek may struggle to describe Jon's eye color as follows:
+
+> "his eyes are blue but not blue blue. I guess there is some orangish yellow in them, or maybe it is orange and yellow. Like you know, it goes from orange to a lighter shade of orange. I suppose there are some white flecks scattered in the eyes. Now I guess I haven't told you how all of this color is arranged. Most of the yellow-orange colors are toward the middle part of the eye. What's that called? Oh yeah, the iris."
+
+Notice that the Tek struggles to describe the Jon's eye color, which is a borderline case of hazel-blue and hazel-grey.
+
+Here is another example. Suppose again I am describing the painting *Ecstasy* (1929) by American painter Maxfield Parrish (see [this section](#reduce-generality) for the image). I want to say that a particular hue of blue makes this painting vibrant. Of course, I could be more precise by describing the chemical formulation of Cobalt blue pigment (Al<sub>2</sub>CoO<sub>4</sub>), but I could make the claim that this blue creates vibrancy by giving examples of other artworks that are "vibrant" and that use the same hue, e.g., this 15th century Ming dynasty jar:
 
 ![Ming dynasty jar - Public Domain](imgs/ming_dynasty_urn.jpg)
 
-Here is another example. Suppose again that we wish to clarify what it means to "doubt" a proposition P. One way to do this is to give examples where a person doubts P and where the person does not doubt P.
+In some cases, we do not have pictures to rely upon. This is routinely the case when what we are trying to clarify is *abstract* or *general*. In such cases, it is useful to use *descriptive examples* to make the clarification of our abstract concepts more understandable.
+
+For example, suppose that we wish to clarify what it means to "doubt" a proposition P. That is, we are trying to explain to someone what "doubt" means. One way to do this is to give examples where a person doubts P and where the person does not doubt P.
 
 > Suppose Liz doubts whether Tek is nice. If this is the case, then Liz has a feeling where she does not know whether Tek is nice and does not have a firm belief concerning whether Tek is nice.
+
+Or, suppose we wished to make some concept of  of *free action* more understandable. For example, suppose we wanted to point out that sometimes a person acts on their desires but the fact that their desires are determined by an outside force means that their action is not free. Here is an illustration:
+
+> Suppose Tek wants to eat a juicy cheeseburger. He buys the cheeseburger and eats it. While this appears to be a free action, let's suppose that his desire to eat the burger is due to an evil demon who implanted in his mind the desire to eat the cheeseburger. In such a case, he would not be free.
+
 
 ## Compare and Contrast
 
