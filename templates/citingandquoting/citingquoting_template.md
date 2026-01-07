@@ -17,7 +17,7 @@ This quote is from p.27 of a book by Peter van Inwagen. The book was published i
 
 Here is a quote from a journal article: "It is sometimes said that the world might itself *be* vague. Rather than vagueness being a deficiency in our mode of describing the world, it would then be a necessary feature of any true description of it. It is also said that amongst the statements which may not have a determinate truth value as a result of their vagueness are identity statements. Combining these two views we would arrive at the idea that the world might contain certain objects about which it is a *fact* that they have fuzzy boundaries. But is this idea coherent?"
 
-The quote is from p.208 of a journal. The article is titled "Can There Be Vague Objects?". It was published in 1978 in a journal titled *Analysis*. Volume Number 38, Issue Number 4. The article is one page long: p.208.
+The quote is from p.208 of a journal. The article is titled "Can There Be Vague Objects?". It was published in 1978 in a journal titled *Analysis*. Volume Number 38, Issue Number 4. The article is one page long: p.208. The author is Gareth Evans.
 
 ## Section 3. Instructions
 
