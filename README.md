@@ -18,9 +18,9 @@ Here is the order in which the lessons are intended to be completed:
 ## Short Assignments
 
 1. [Citing and Quoting](/assignments/citingandquoting.md)
-1. Clarifying an Idea - TBA
+1. [Clarifying](/assignments/clarifying.md)
 1. Metadiscourse - TBA
-1. Presenting an Argument - TBA
+1. [Presenting an Argument](/assignments/arguing.md)
 1. Improving style - TBA
 
 ## Paper Assignments
@@ -37,4 +37,8 @@ You can find template files in the [templates](https://github.com/davidagler/how
 
 ## For Instructors
 
-For testing purposes, I use quizzes in an LMS by converting plaintext questions into QTI using the invaluable [text2qti](https://github.com/gpoore/text2qti). If you want the questions, contact me!
+I use two forms of evaluations.
+
+First, I use quizzes in an LMS by converting plaintext questions into QTI using the invaluable [text2qti](https://github.com/gpoore/text2qti). If you want the questions, contact me!
+
+Second, I use various scripts to download student submissions, check for accuracy, and reupload them back to the LMS.
