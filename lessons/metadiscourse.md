@@ -1,14 +1,10 @@
 # How to Use Metadiscourse
 
-Language is not simply used to convey information. It can be used to threaten, to amuse, to enter transactions, to get out emotions, and so on. In addition to these uses, Hyland (2005) points out, language is also used to "present this information through the organization of the text itself \[...] and engage readers as to how they should understand it." Language that fulfills this aims to perform function is called *metadiscourse*. There are many different definitions of "metadiscourse". Some include:
-
-- Hyland (2017) defines it as follows: "Metadiscourse is the commentary on a text made by its producer in the course of speaking or writing. \[...] At the heart of the idea is the view that language not only refers to the world, concerned with exchanging information of various kinds, but also to itself: with material which helps readers to organise, interpret and evaluate what is being said. \[...] Essentially metadiscourse refers to how we use language out of consideration for our readers or hearers based on our estimation of how best we can help them process and comprehend what we are saying."
-- Vande Kopple (1985): "the linguistic material which does not add propositional information but which signals the presence of an author".
-- Crismore (1983:2, cf. Crismore et al 1993:40): "the author's intrusion into the discourse, either explicitly or non-explicitly, to direct rather than inform, showing readers how to understand what is said and meant in the primary discourse and how to "take" the author.''
+Language is not simply used to convey information. It can be used to threaten, to amuse, to enter transactions, to get out emotions, and so on. In addition to these uses, Hyland (2005) points out, language is also used to "present this information through the organization of the text itself \[...] and engage readers as to how they should understand it." Language that fulfills this aims to perform function is called *metadiscourse*. There are many different definitions of "metadiscourse".
 
 For our purposes, we will take metadiscourse to be defined as follows:
 
-> Metadiscourse is the use of language (broadly understood) to **organize propositional information** and **manage information flow** to the reader. This is sometimes referred to as the **interactive part of metadiscourse** (the other part is the interactional part, but we will ignore that).
+> Metadiscourse is the use of language to **organize propositional information** and **manage information flow** to the reader. This is sometimes referred to as the **interactive part of metadiscourse** (the other part is the interactional part, but we will ignore that).
 
 On this definition, metadiscourse does not refer to:
 
@@ -139,9 +135,10 @@ Various metadiscourse terms are used to explicitly indicate that exemplification
 
 When we communicate, we care not only what information is being output but how well it is being understood by our audience. One aspect of communicating information in a coherent, well-organized, and understandable way is to signal to our reader the structure (organization, flow) of our ideas (signal markers), the goal of these ideas (frame markers), and when we are reformulating or exemplifying ideas to make them easier to understand (code glosses).
 
+<!-- 
 ### Exercise
 
-1. Let's suppose you are running for President and you want to make some campaign promises. Use frame markers, sequence markers, and code glosses to organize your campaign promises. Put circles around frame markers, diamonds around sequence markers, and a rectangle around code glosses.
+1. Let's suppose you are running for President and you want to make some campaign promises. Use frame markers, sequence markers, and code glosses to organize your campaign promises. Put circles around frame markers, diamonds around sequence markers, and a rectangle around code glosses. -->
 
 ## References
 
@@ -154,3 +151,9 @@ When we communicate, we care not only what information is being output but how w
 There are many "non-verbal" aspects of language that manage information flow. As such, these would be considered non-verbal metadiscourse elements. When we listen or read, we utter words and sentences sequentially (line by line) or in packets. It is not possible to digest an entire novel all at once. We pause between various spoken words and insert spaces between written words so that they can be understood more effectively (rather than mushing all the words together). Dark print is placed on white (or slightly off-white) pieces of paper so information moves more effectively to the reader. Italics and bolded terms are used to highlight the importance of certain terms. We use line breaks or indention to signal a new or distinct idea or packet of information.
 
 It is not entirely clear whether the purpose of reformulation is to make propositional content *clearer* (in the sense of more precise or accurate) or more understandable (easier to understand) to the reader. In some cases, making an idea more precise can make an idea less understandable to a reader, e.g., reformulating an argument in a logical language that the reader does not understand or using an analogy that draws from scientific information that the reader has no familiarity with.
+
+Some definitions of metadiscourse include the following:
+
+- Hyland (2017): "Metadiscourse is the commentary on a text made by its producer in the course of speaking or writing. \[...] At the heart of the idea is the view that language not only refers to the world, concerned with exchanging information of various kinds, but also to itself: with material which helps readers to organise, interpret and evaluate what is being said. \[...] Essentially metadiscourse refers to how we use language out of consideration for our readers or hearers based on our estimation of how best we can help them process and comprehend what we are saying."
+- Vande Kopple (1985): "the linguistic material which does not add propositional information but which signals the presence of an author".
+- Crismore (1983:2, cf. Crismore et al 1993:40): "the author's intrusion into the discourse, either explicitly or non-explicitly, to direct rather than inform, showing readers how to understand what is said and meant in the primary discourse and how to "take" the author.''
