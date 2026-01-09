@@ -23,8 +23,8 @@ The quote is from p.208 of a journal. The article is titled "Can There Be Vague 
 
 1. Take both of the above quotes and turn them into blockquotes.
 1. Supply both quotes an in-text citation using the format `(Author Date: Page)`.
-1. Using an unordered list, add a reference citation in the [References](#references) section.
-    - For the book, use the following format: `Author. Date. Title. Location of Publication: Place of Publication.`
-    - For the article, use the following format: `Last Name, First Name. Date of Publication. Title. Journal Title. Volume Number(Issue Number): Page Number(s).`
+1. Using an unordered list, add reference citations in the [References](#references) section.
+    - For books, use the following format: `Author. Date. *Book Title*. Location of Publication: Place of Publication.`
+    - For articles, use the following format: `Last Name, First Name. Date of Publication. Article Title. *Journal Title*. Volume Number(Issue Number): Page Number(s).`
 
 ## References
