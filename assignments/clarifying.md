@@ -17,4 +17,4 @@ In this assignment you are asked to select a passage of text from a text, place 
 
 1. [Citing](../lessons/citing.md)
 1. [Quoting](../lessons/quoting.md)
-1. [Quoting](../lessons/clarifying.md)
+1. [Clarifying](../lessons/clarifying.md)
