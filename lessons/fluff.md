@@ -11,6 +11,10 @@ With respect to (1), Alexander Bain wrote that if we are following the principle
 
 > "A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts." (p.21)
 
+Even more concisely, [Kevin Malone](https://www.youtube.com/shorts/rhBqlDsqMAk) from *The Office* humorously remarked:
+
+> "Why waste time say lot word when few word do trick?"
+
 Let's consider a few examples of sentences with "needless words". Consider the following sentence:
 
 > "Her story is a strange one."
